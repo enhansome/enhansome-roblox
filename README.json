@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-12T23:41:45Z",
+            "last_commit": "2026-08-13T22:24:44Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 605
@@ -56,7 +56,7 @@
             "last_commit": "2020-06-10T22:18:12Z",
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 342
+            "stars": 343
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-06-30T18:04:16Z",
             "owner": "Roblox",
             "repo": "rodux",
-            "stars": 332
+            "stars": 333
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-07-06T06:15:34Z",
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1689
+            "stars": 1691
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-07-25T10:24:22Z",
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1284
+            "stars": 1283
           }
         },
         {
@@ -169,10 +169,10 @@
           "repo_info": {
             "archived": false,
             "language": "Luau",
-            "last_commit": "2026-08-10T18:25:31Z",
+            "last_commit": "2026-08-13T16:07:31Z",
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 512
+            "stars": 514
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2024-11-04T19:18:32Z",
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 715
+            "stars": 716
           }
         },
         {
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:12:56.484Z",
+    "last_updated": "2026-08-13T22:34:10.834Z",
     "original_repository": "elevenpassin/awesome-roblox",
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
     "enhanced_repository": "enhansome/enhansome-roblox",

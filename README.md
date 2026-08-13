@@ -28,9 +28,9 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 605 | 🐛 69 | 🌐 Lua | 📅 2026-08-12
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 605 | 🐛 70 | 🌐 Lua | 📅 2026-08-13
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
-* [Rodux](https://github.com/Roblox/rodux) ⭐ 332 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
+* [Rodux](https://github.com/Roblox/rodux) ⭐ 333 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
 * [Proton](https://github.com/Sleitnick/rbxts-proton/) ⭐ 23 | 🐛 3 | 🌐 TypeScript | 📅 2023-02-15
 * [Roact Material](https://github.com/AmaranthineCodices/roact-material) ⚠️ Archived
@@ -41,9 +41,9 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,689 | 🐛 198 | 🌐 Rust | 📅 2026-07-06
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,284 | 🐛 171 | 🌐 TypeScript | 📅 2026-07-25
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 512 | 🐛 14 | 🌐 Luau | 📅 2026-08-10
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,691 | 🐛 198 | 🌐 Rust | 📅 2026-07-06
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,283 | 🐛 171 | 🌐 TypeScript | 📅 2026-07-25
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 514 | 🐛 13 | 🌐 Luau | 📅 2026-08-13
 * [wally](https://github.com/UpliftGames/wally) ⭐ 489 | 🐛 89 | 🌐 Rust | 📅 2026-01-28
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 376 | 🐛 25 | 🌐 C# | 📅 2026-06-27
 * [Foreman](https://github.com/Roblox/foreman) ⭐ 254 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
@@ -160,7 +160,7 @@ Open source bots that you can use in your servers!
 
 ## Other
 
-* [ROBLOX Web APIs by matthewdean](https://github.com/matthewdean/roblox-web-apis) ⭐ 715 | 🐛 6 | 🌐 JavaScript | 📅 2024-11-04
+* [ROBLOX Web APIs by matthewdean](https://github.com/matthewdean/roblox-web-apis) ⭐ 716 | 🐛 6 | 🌐 JavaScript | 📅 2024-11-04
 * [Vesteria](https://github.com/berezaa/vesteria) ⭐ 154 | 🐛 1 | 🌐 Lua | 📅 2020-10-29
 * [Open Source Levels](https://github.com/Shedletsky/Open-Source-Levels) ⭐ 20 | 🐛 2 | 📅 2021-12-15
 * [Lua Style Guide](https://roblox.github.io/lua-style-guide/)
