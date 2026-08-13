@@ -1,0 +1,511 @@
+{
+  "items": [
+    {
+      "description": "Handy frameworks and libraries to build your ROBLOX games on top of!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Knit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Luau",
+            "last_commit": "2024-07-31T13:18:03Z",
+            "owner": "Sleitnick",
+            "repo": "Knit",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roact",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2023-12-13T00:17:58Z",
+            "owner": "Roblox",
+            "repo": "roact",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nevermore Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-12T23:41:45Z",
+            "owner": "Quenty",
+            "repo": "NevermoreEngine",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROBLOX Core Scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2020-06-10T22:18:12Z",
+            "owner": "Roblox",
+            "repo": "Core-Scripts",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rodux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-30T18:04:16Z",
+            "owner": "Roblox",
+            "repo": "rodux",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aero Game Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2022-12-29T00:07:54Z",
+            "owner": "Sleitnick",
+            "repo": "AeroGameFramework",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proton",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-15T04:29:35Z",
+            "owner": "Sleitnick",
+            "repo": "rbxts-proton",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roact Material",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2020-07-11T23:08:41Z",
+            "owner": "AmaranthineCodices",
+            "repo": "roact-material",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freya",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Valkyrie",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "Tools to augument your game development experience",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rojo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-06T06:15:34Z",
+            "owner": "rojo-rbx",
+            "repo": "rojo",
+            "stars": 1689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roblox-ts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T10:24:22Z",
+            "owner": "roblox-ts",
+            "repo": "roblox-ts",
+            "stars": 1284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cmdr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Luau",
+            "last_commit": "2026-08-10T18:25:31Z",
+            "owner": "evaera",
+            "repo": "Cmdr",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wally",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-28T16:55:25Z",
+            "owner": "UpliftGames",
+            "repo": "wally",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROBLOX Studio Mod Manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-27T21:38:36Z",
+            "owner": "MaximumADHD",
+            "repo": "Roblox-Studio-Mod-Manager",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foreman",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-01T19:24:31Z",
+            "owner": "Roblox",
+            "repo": "foreman",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Janitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Luau",
+            "last_commit": "2026-07-28T21:08:51Z",
+            "owner": "howmanysmall",
+            "repo": "Janitor",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rbx2Source",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2025-04-06T06:25:39Z",
+            "owner": "MaximumADHD",
+            "repo": "Rbx2Source",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROBLOX Studio Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2017-07-11T17:38:51Z",
+            "owner": "Roblox",
+            "repo": "Studio-Tools",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Luanoid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2018-05-09T22:31:08Z",
+            "owner": "LPGhatguy",
+            "repo": "luanoid",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lemur",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2020-06-17T21:00:50Z",
+            "owner": "LPGhatguy",
+            "repo": "lemur",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rbx Gravity Controller",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-09-03T05:07:24Z",
+            "owner": "EgoMoose",
+            "repo": "Rbx-Gravity-Controller",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entity Component System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2019-05-19T01:32:21Z",
+            "owner": "tiffany352",
+            "repo": "RobloxComponentSystem",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Group Auto Ranker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-14T00:01:36Z",
+            "owner": "Quenty",
+            "repo": "roblox-group-autoranker",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROBLOX Lua Promise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2019-09-10T04:25:47Z",
+            "owner": "LPGhatguy",
+            "repo": "roblox-lua-promise",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dungeon Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-02-13T06:26:06Z",
+            "owner": "EgoMooseOldProjects",
+            "repo": "Dungeon-generator",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radial SpriteSheet Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-08T22:11:16Z",
+            "owner": "evaera",
+            "repo": "RadialSpriteSheetGenerator",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynablox Opencloud",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-12-18T06:17:39Z",
+            "owner": "dynabloxjs",
+            "repo": "dynablox_opencloud",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixel Terrain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-01-31T17:57:11Z",
+            "owner": "rynstwrt",
+            "repo": "Pixel-Terrain",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Plugins to help you build levels fast!",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "Open source bots that you can use in your servers!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RoVer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-09T18:46:46Z",
+            "owner": "evaera",
+            "repo": "RoVer",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord Bot Service",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-13T16:59:10Z",
+            "owner": "TheIcyStar",
+            "repo": "Roblox-DiscordBotService",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ROBLOX Web APIs by matthewdean",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-04T19:18:32Z",
+            "owner": "matthewdean",
+            "repo": "roblox-web-apis",
+            "stars": 715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vesteria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-10-29T01:36:07Z",
+            "owner": "berezaa",
+            "repo": "vesteria",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Levels",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-15T18:55:46Z",
+            "owner": "Shedletsky",
+            "repo": "Open-Source-Levels",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, elevenpassin has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:56.484Z",
+    "original_repository": "elevenpassin/awesome-roblox",
+    "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
+    "enhanced_repository": "enhansome/enhansome-roblox",
+    "enhanced_repository_description": null,
+    "title": "Awesome ROBLOX with stars"
+  }
+}
