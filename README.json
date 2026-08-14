@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-13T22:24:44Z",
+            "last_commit": "2026-08-14T20:13:00Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 605
+            "stars": 606
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-07-06T06:15:34Z",
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1691
+            "stars": 1694
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-07-25T10:24:22Z",
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1283
+            "stars": 1284
           }
         },
         {
@@ -169,7 +169,7 @@
           "repo_info": {
             "archived": false,
             "language": "Luau",
-            "last_commit": "2026-08-13T16:07:31Z",
+            "last_commit": "2026-08-14T20:23:47Z",
             "owner": "evaera",
             "repo": "Cmdr",
             "stars": 514
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:34:10.834Z",
+    "last_updated": "2026-08-14T22:15:44.322Z",
     "original_repository": "elevenpassin/awesome-roblox",
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
     "enhanced_repository": "enhansome/enhansome-roblox",
