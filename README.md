@@ -28,9 +28,9 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 605 | 🐛 70 | 🌐 Lua | 📅 2026-08-17
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 605 | 🐛 70 | 🌐 Lua | 📅 2026-08-18
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
-* [Rodux](https://github.com/Roblox/rodux) ⭐ 333 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
+* [Rodux](https://github.com/Roblox/rodux) ⭐ 334 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
 * [Proton](https://github.com/Sleitnick/rbxts-proton/) ⭐ 23 | 🐛 3 | 🌐 TypeScript | 📅 2023-02-15
 * [Roact Material](https://github.com/AmaranthineCodices/roact-material) ⚠️ Archived
@@ -41,12 +41,12 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,699 | 🐛 199 | 🌐 Rust | 📅 2026-07-06
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,700 | 🐛 200 | 🌐 Rust | 📅 2026-07-06
 * [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,286 | 🐛 171 | 🌐 TypeScript | 📅 2026-07-25
 * [Cmdr](https://github.com/evaera/Cmdr) ⭐ 516 | 🐛 20 | 🌐 Luau | 📅 2026-08-16
 * [wally](https://github.com/UpliftGames/wally) ⭐ 490 | 🐛 89 | 🌐 Rust | 📅 2026-01-28
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 376 | 🐛 25 | 🌐 C# | 📅 2026-06-27
-* [Foreman](https://github.com/Roblox/foreman) ⭐ 254 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
+* [Foreman](https://github.com/Roblox/foreman) ⭐ 253 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
 * [Janitor](https://github.com/howmanysmall/Janitor) ⭐ 147 | 🐛 5 | 🌐 Luau | 📅 2026-07-28
 * [Rbx2Source](https://github.com/CloneTrooper1019/Rbx2Source) ⚠️ Archived
 * [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools) ⚠️ Archived
@@ -127,7 +127,7 @@ Open source bots that you can use in your servers!
 * [Scripting Helpers](https://scriptinghelpers.org/)
 * [ROBLOX Developer Hub](http://robloxdev.com/)
 * [Lua Reference Manual](https://www.lua.org/manual/)
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,552 | 🐛 47 | 📅 2024-08-11
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,553 | 🐛 47 | 📅 2024-08-11
 * [ROBLOX Developer Forum](https://devforum.roblox.com/)
 * [ROBLOX Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
 * [THEM Magazines](https://issuu.com/themm)
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
