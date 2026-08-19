@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 277660877,
             "language": "Luau",
             "last_commit": "2024-07-31T13:18:03Z",
             "owner": "Sleitnick",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 109429829,
             "language": "Lua",
             "last_commit": "2023-12-13T00:17:58Z",
             "owner": "Roblox",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12887543,
             "language": "Lua",
-            "last_commit": "2026-08-18T07:52:18Z",
+            "last_commit": "2026-08-19T07:46:20Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 605
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19040095,
             "language": "Lua",
             "last_commit": "2020-06-10T22:18:12Z",
             "owner": "Roblox",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106594329,
             "language": "Lua",
             "last_commit": "2026-06-30T18:04:16Z",
             "owner": "Roblox",
             "repo": "rodux",
-            "stars": 334
+            "stars": 333
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 97989202,
             "language": "Lua",
             "last_commit": "2022-12-29T00:07:54Z",
             "owner": "Sleitnick",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521722841,
             "language": "TypeScript",
             "last_commit": "2023-02-15T04:29:35Z",
             "owner": "Sleitnick",
@@ -108,24 +115,13 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 117163111,
             "language": "Lua",
             "last_commit": "2020-07-11T23:08:41Z",
             "owner": "AmaranthineCodices",
             "repo": "roact-material",
             "stars": 19
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Freya",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Valkyrie",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Frameworks"
@@ -140,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112544736,
             "language": "Rust",
             "last_commit": "2026-07-06T06:15:34Z",
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1700
+            "stars": 1702
           }
         },
         {
@@ -154,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147587500,
             "language": "TypeScript",
             "last_commit": "2026-07-25T10:24:22Z",
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1286
+            "stars": 1287
           }
         },
         {
@@ -168,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135337955,
             "language": "Luau",
-            "last_commit": "2026-08-16T13:07:41Z",
+            "last_commit": "2026-08-19T00:36:49Z",
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 516
+            "stars": 517
           }
         },
         {
@@ -182,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389701328,
             "language": "Rust",
             "last_commit": "2026-01-28T16:55:25Z",
             "owner": "UpliftGames",
@@ -196,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30164638,
             "language": "C#",
             "last_commit": "2026-06-27T21:38:36Z",
             "owner": "MaximumADHD",
@@ -210,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227246606,
             "language": "Rust",
             "last_commit": "2026-05-01T19:24:31Z",
             "owner": "Roblox",
             "repo": "foreman",
-            "stars": 253
+            "stars": 254
           }
         },
         {
@@ -224,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336140422,
             "language": "Luau",
             "last_commit": "2026-07-28T21:08:51Z",
             "owner": "howmanysmall",
@@ -238,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25696809,
             "language": "C#",
             "last_commit": "2025-04-06T06:25:39Z",
             "owner": "MaximumADHD",
@@ -252,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30615121,
             "language": null,
             "last_commit": "2017-07-11T17:38:51Z",
             "owner": "Roblox",
@@ -266,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 126872475,
             "language": "Lua",
             "last_commit": "2018-05-09T22:31:08Z",
             "owner": "LPGhatguy",
@@ -280,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 106741367,
             "language": "Lua",
             "last_commit": "2020-06-17T21:00:50Z",
             "owner": "LPGhatguy",
@@ -294,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325681499,
             "language": "Lua",
             "last_commit": "2022-09-03T05:07:24Z",
             "owner": "EgoMoose",
@@ -308,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 135867996,
             "language": "Lua",
             "last_commit": "2019-05-19T01:32:21Z",
             "owner": "tiffany352",
@@ -322,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54439571,
             "language": "JavaScript",
             "last_commit": "2019-01-14T00:01:36Z",
             "owner": "Quenty",
@@ -336,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 118976870,
             "language": "Lua",
             "last_commit": "2019-09-10T04:25:47Z",
             "owner": "LPGhatguy",
@@ -350,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51634630,
             "language": "Lua",
             "last_commit": "2016-02-13T06:26:06Z",
             "owner": "EgoMooseOldProjects",
@@ -364,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137230298,
             "language": "TypeScript",
             "last_commit": "2022-12-08T22:11:16Z",
             "owner": "evaera",
@@ -378,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 475240220,
             "language": "TypeScript",
             "last_commit": "2022-12-18T06:17:39Z",
             "owner": "dynabloxjs",
@@ -392,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50708850,
             "language": "Lua",
             "last_commit": "2016-01-31T17:57:11Z",
             "owner": "rynstwrt",
@@ -403,11 +418,6 @@
       "title": "Tools"
     },
     {
-      "description": "Plugins to help you build levels fast!",
-      "items": [],
-      "title": "Plugins"
-    },
-    {
       "description": "Open source bots that you can use in your servers!",
       "items": [
         {
@@ -417,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 87183047,
             "language": "JavaScript",
             "last_commit": "2022-06-09T18:46:46Z",
             "owner": "evaera",
@@ -431,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 98568529,
             "language": "JavaScript",
             "last_commit": "2023-04-13T16:59:10Z",
             "owner": "TheIcyStar",
@@ -442,7 +454,7 @@
       "title": "Bots"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -451,11 +463,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14993809,
             "language": "JavaScript",
             "last_commit": "2024-11-04T19:18:32Z",
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 716
+            "stars": 717
           }
         },
         {
@@ -465,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199747171,
             "language": "Lua",
             "last_commit": "2020-10-29T01:36:07Z",
             "owner": "berezaa",
@@ -479,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12231063,
             "language": null,
             "last_commit": "2021-12-15T18:55:46Z",
             "owner": "Shedletsky",
@@ -488,21 +503,12 @@
         }
       ],
       "title": "Other"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, elevenpassin has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:15:28.450Z",
+    "last_updated": "2026-08-19T12:54:44.055Z",
     "original_repository": "elevenpassin/awesome-roblox",
+    "original_repository_id": 146482253,
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
     "enhanced_repository": "enhansome/enhansome-roblox",
     "enhanced_repository_description": null,
