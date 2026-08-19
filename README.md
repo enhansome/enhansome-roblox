@@ -41,7 +41,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,702 | 🐛 199 | 🌐 Rust | 📅 2026-07-06
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,703 | 🐛 199 | 🌐 Rust | 📅 2026-07-06
 * [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,287 | 🐛 171 | 🌐 TypeScript | 📅 2026-07-25
 * [Cmdr](https://github.com/evaera/Cmdr) ⭐ 517 | 🐛 18 | 🌐 Luau | 📅 2026-08-19
 * [wally](https://github.com/UpliftGames/wally) ⭐ 490 | 🐛 89 | 🌐 Rust | 📅 2026-01-28
@@ -127,7 +127,7 @@ Open source bots that you can use in your servers!
 * [Scripting Helpers](https://scriptinghelpers.org/)
 * [ROBLOX Developer Hub](http://robloxdev.com/)
 * [Lua Reference Manual](https://www.lua.org/manual/)
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,554 | 🐛 47 | 📅 2024-08-11
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11
 * [ROBLOX Developer Forum](https://devforum.roblox.com/)
 * [ROBLOX Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
 * [THEM Magazines](https://issuu.com/themm)
