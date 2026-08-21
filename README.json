@@ -42,10 +42,10 @@
             "archived": false,
             "id": 12887543,
             "language": "Lua",
-            "last_commit": "2026-08-20T16:16:41Z",
+            "last_commit": "2026-08-21T16:19:55Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 606
+            "stars": 605
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-30T18:04:16Z",
             "owner": "Roblox",
             "repo": "rodux",
-            "stars": 333
+            "stars": 332
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-07-06T06:15:34Z",
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1706
+            "stars": 1707
           }
         },
         {
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 135337955,
             "language": "Luau",
-            "last_commit": "2026-08-19T00:36:49Z",
+            "last_commit": "2026-08-21T15:27:26Z",
             "owner": "evaera",
             "repo": "Cmdr",
             "stars": 517
@@ -201,7 +201,7 @@
             "last_commit": "2026-06-27T21:38:36Z",
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 377
+            "stars": 376
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2024-11-04T19:18:32Z",
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 717
+            "stars": 718
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:20:01.405Z",
+    "last_updated": "2026-08-21T22:16:35.926Z",
     "original_repository": "elevenpassin/awesome-roblox",
     "original_repository_id": 146482253,
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
