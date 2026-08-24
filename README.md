@@ -28,7 +28,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 606 | 🐛 70 | 🌐 Lua | 📅 2026-08-22
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 606 | 🐛 70 | 🌐 Lua | 📅 2026-08-24
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
 * [Rodux](https://github.com/Roblox/rodux) ⭐ 332 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
@@ -41,13 +41,13 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,710 | 🐛 200 | 🌐 Rust | 📅 2026-07-06
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,711 | 🐛 200 | 🌐 Rust | 📅 2026-07-06
 * [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,288 | 🐛 171 | 🌐 TypeScript | 📅 2026-07-25
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 518 | 🐛 16 | 🌐 Luau | 📅 2026-08-21
-* [wally](https://github.com/UpliftGames/wally) ⭐ 491 | 🐛 89 | 🌐 Rust | 📅 2026-01-28
-* [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 377 | 🐛 25 | 🌐 C# | 📅 2026-06-27
-* [Foreman](https://github.com/Roblox/foreman) ⭐ 254 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
-* [Janitor](https://github.com/howmanysmall/Janitor) ⭐ 147 | 🐛 5 | 🌐 Luau | 📅 2026-07-28
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 518 | 🐛 20 | 🌐 Luau | 📅 2026-08-21
+* [wally](https://github.com/UpliftGames/wally) ⭐ 492 | 🐛 90 | 🌐 Rust | 📅 2026-01-28
+* [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 378 | 🐛 25 | 🌐 C# | 📅 2026-06-27
+* [Foreman](https://github.com/Roblox/foreman) ⭐ 255 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
+* [Janitor](https://github.com/howmanysmall/Janitor) ⭐ 148 | 🐛 5 | 🌐 Luau | 📅 2026-07-28
 * [Rbx2Source](https://github.com/CloneTrooper1019/Rbx2Source) ⚠️ Archived
 * [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools) ⚠️ Archived
 * [Luanoid](https://github.com/LPGhatguy/luanoid) ⚠️ Archived
@@ -109,8 +109,8 @@ Plugins to help you build levels fast!
 
 ### Other plugins
 
-* [Cutscene Editor](https://www.roblox.com/catalog/142296237/Cutscene-Editor-Plugin-FIXED)
 * [Tag editor](https://github.com/tiffany352/Roblox-Tag-Editor) ⚠️ Archived
+* [Cutscene Editor](https://www.roblox.com/catalog/142296237/Cutscene-Editor-Plugin-FIXED)
 * [Load Character](https://www.roblox.com/catalog/752585459/Load-Character)
 * [Mannequin Maker](https://www.roblox.com/catalog/148647459/Mannequin-maker-plugin)
 * [RigEdit](https://www.roblox.com/library/1274343708/RigEdit-Create-and-edit-animation-rigs)
@@ -124,10 +124,10 @@ Open source bots that you can use in your servers!
 
 ## Learning Resources
 
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11
 * [Scripting Helpers](https://scriptinghelpers.org/)
 * [ROBLOX Developer Hub](http://robloxdev.com/)
 * [Lua Reference Manual](https://www.lua.org/manual/)
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11
 * [ROBLOX Developer Forum](https://devforum.roblox.com/)
 * [ROBLOX Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
 * [THEM Magazines](https://issuu.com/themm)
@@ -145,10 +145,10 @@ Open source bots that you can use in your servers!
 
 ### Blogs
 
+* [EgoMoose's Articles](https://github.com/EgoMoose/Articles) ⭐ 146 | 🐛 0 | 🌐 Lua | 📅 2024-06-03
 * [amaranthinecodices](https://amaranthinecodices.me/post/)
 * [Ozzy's Blog](https://ozzypig.com/)
 * [Quenty's Blog](https://medium.com/roblox-development)
-* [EgoMoose's Articles](https://github.com/EgoMoose/Articles) ⭐ 146 | 🐛 0 | 🌐 Lua | 📅 2024-06-03
 
 ## Discord Servers
 
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

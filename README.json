@@ -42,7 +42,7 @@
             "archived": false,
             "id": 12887543,
             "language": "Lua",
-            "last_commit": "2026-08-22T21:16:02Z",
+            "last_commit": "2026-08-24T01:34:46Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 606
@@ -60,7 +60,7 @@
             "last_commit": "2020-06-10T22:18:12Z",
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 343
+            "stars": 342
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-07-06T06:15:34Z",
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1710
+            "stars": 1711
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-01-28T16:55:25Z",
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-06-27T21:38:36Z",
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 377
+            "stars": 378
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-05-01T19:24:31Z",
             "owner": "Roblox",
             "repo": "foreman",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-07-28T21:08:51Z",
             "owner": "howmanysmall",
             "repo": "Janitor",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -418,6 +418,56 @@
       "title": "Tools"
     },
     {
+      "description": "Plugins to help you build levels fast!",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "F3X Building Tools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19760151,
+                "language": "Lua",
+                "last_commit": "2025-02-19T02:37:39Z",
+                "owner": "F3XTeam",
+                "repo": "RBX-Building-Tools",
+                "stars": 58
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Level Design plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tag editor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 99076845,
+                "language": "Lua",
+                "last_commit": "2022-12-05T05:04:08Z",
+                "owner": "tiffany352",
+                "repo": "Roblox-Tag-Editor",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other plugins"
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
       "description": "Open source bots that you can use in your servers!",
       "items": [
         {
@@ -452,6 +502,49 @@
         }
       ],
       "title": "Bots"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Lua",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23039606,
+            "language": null,
+            "last_commit": "2024-08-11T17:32:00Z",
+            "owner": "LewisJEllis",
+            "repo": "awesome-lua",
+            "stars": 4555
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EgoMoose's Articles",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140586820,
+                "language": "Lua",
+                "last_commit": "2024-06-03T20:42:52Z",
+                "owner": "EgoMoose",
+                "repo": "Articles",
+                "stars": 146
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blogs"
+        }
+      ],
+      "title": "Learning Resources"
     },
     {
       "description": null,
@@ -506,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:14:41.967Z",
+    "last_updated": "2026-08-24T14:36:46.086Z",
     "original_repository": "elevenpassin/awesome-roblox",
     "original_repository_id": 146482253,
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
