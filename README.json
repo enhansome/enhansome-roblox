@@ -42,7 +42,7 @@
             "archived": false,
             "id": 12887543,
             "language": "Lua",
-            "last_commit": "2026-08-24T01:34:46Z",
+            "last_commit": "2026-08-24T22:06:59Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 606
@@ -141,7 +141,7 @@
             "last_commit": "2026-07-06T06:15:34Z",
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1711
+            "stars": 1712
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-07-28T21:08:51Z",
             "owner": "howmanysmall",
             "repo": "Janitor",
-            "stars": 148
+            "stars": 147
           }
         },
         {
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:36:46.086Z",
+    "last_updated": "2026-08-24T22:18:49.777Z",
     "original_repository": "elevenpassin/awesome-roblox",
     "original_repository_id": 146482253,
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
