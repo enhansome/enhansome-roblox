@@ -15,7 +15,7 @@
             "last_commit": "2024-07-31T13:18:03Z",
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 628
+            "stars": 629
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-12-13T00:17:58Z",
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 624
+            "stars": 625
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 12887543,
             "language": "Lua",
-            "last_commit": "2026-08-24T22:23:25Z",
+            "last_commit": "2026-08-25T17:46:29Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 606
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-25T10:24:22Z",
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1288
+            "stars": 1289
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 135337955,
             "language": "Luau",
-            "last_commit": "2026-08-21T15:27:26Z",
+            "last_commit": "2026-08-25T13:16:13Z",
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 519
+            "stars": 520
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-05-01T19:24:31Z",
             "owner": "Roblox",
             "repo": "foreman",
-            "stars": 255
+            "stars": 256
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2022-09-03T05:07:24Z",
             "owner": "EgoMoose",
             "repo": "Rbx-Gravity-Controller",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -518,7 +518,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4555
+            "stars": 4556
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2024-11-04T19:18:32Z",
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:25.336Z",
+    "last_updated": "2026-08-25T22:19:27.335Z",
     "original_repository": "elevenpassin/awesome-roblox",
     "original_repository_id": 146482253,
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
