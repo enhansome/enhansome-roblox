@@ -28,7 +28,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 606 | 🐛 71 | 🌐 Lua | 📅 2026-08-24
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 606 | 🐛 70 | 🌐 Lua | 📅 2026-08-24
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
 * [Rodux](https://github.com/Roblox/rodux) ⭐ 332 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
@@ -43,7 +43,7 @@ Tools to augument your game development experience
 
 * [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,712 | 🐛 200 | 🌐 Rust | 📅 2026-07-06
 * [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,288 | 🐛 171 | 🌐 TypeScript | 📅 2026-07-25
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 518 | 🐛 20 | 🌐 Luau | 📅 2026-08-21
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 519 | 🐛 20 | 🌐 Luau | 📅 2026-08-21
 * [wally](https://github.com/UpliftGames/wally) ⭐ 492 | 🐛 90 | 🌐 Rust | 📅 2026-01-28
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 378 | 🐛 25 | 🌐 C# | 📅 2026-06-27
 * [Foreman](https://github.com/Roblox/foreman) ⭐ 255 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
