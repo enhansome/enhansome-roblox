@@ -30,7 +30,7 @@
             "last_commit": "2023-12-13T00:17:58Z",
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 625
+            "stars": 624
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 12887543,
             "language": "Lua",
-            "last_commit": "2026-08-25T17:46:29Z",
+            "last_commit": "2026-08-26T22:45:33Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 606
@@ -60,7 +60,7 @@
             "last_commit": "2020-06-10T22:18:12Z",
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 342
+            "stars": 343
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-30T18:04:16Z",
             "owner": "Roblox",
             "repo": "rodux",
-            "stars": 332
+            "stars": 331
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-25T10:24:22Z",
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1289
+            "stars": 1292
           }
         },
         {
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 135337955,
             "language": "Luau",
-            "last_commit": "2026-08-25T13:16:13Z",
+            "last_commit": "2026-08-26T13:17:38Z",
             "owner": "evaera",
             "repo": "Cmdr",
             "stars": 520
@@ -561,7 +561,7 @@
             "last_commit": "2024-11-04T19:18:32Z",
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 719
+            "stars": 720
           }
         },
         {
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:19:27.335Z",
+    "last_updated": "2026-08-27T02:46:12.905Z",
     "original_repository": "elevenpassin/awesome-roblox",
     "original_repository_id": 146482253,
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
