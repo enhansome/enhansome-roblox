@@ -43,7 +43,7 @@ Tools to augument your game development experience
 
 * [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,712 | 🐛 201 | 🌐 Rust | 📅 2026-07-06
 * [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,292 | 🐛 171 | 🌐 TypeScript | 📅 2026-07-25
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 520 | 🐛 15 | 🌐 Luau | 📅 2026-08-26
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 519 | 🐛 15 | 🌐 Luau | 📅 2026-08-26
 * [wally](https://github.com/UpliftGames/wally) ⭐ 492 | 🐛 90 | 🌐 Rust | 📅 2026-01-28
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 378 | 🐛 25 | 🌐 C# | 📅 2026-06-27
 * [Foreman](https://github.com/Roblox/foreman) ⭐ 256 | 🐛 21 | 🌐 Rust | 📅 2026-05-01

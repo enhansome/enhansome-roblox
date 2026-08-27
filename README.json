@@ -171,7 +171,7 @@
             "last_commit": "2026-08-26T13:17:38Z",
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 520
+            "stars": 519
           }
         },
         {
@@ -599,9 +599,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:46:12.905Z",
-    "original_repository": "elevenpassin/awesome-roblox",
-    "original_repository_id": 146482253,
+    "last_updated": "2026-08-27T12:00:21.117Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 146482253,
+      "language": null,
+      "last_commit": "2025-05-01T21:05:20Z",
+      "owner": "elevenpassin",
+      "repo": "awesome-roblox",
+      "stars": 193
+    },
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
     "enhanced_repository": "enhansome/enhansome-roblox",
     "enhanced_repository_description": null,
