@@ -16,7 +16,8 @@
             "owner": "Sleitnick",
             "repo": "Knit",
             "stars": 629
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Roblox",
             "repo": "roact",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 12887543,
             "language": "Lua",
-            "last_commit": "2026-08-26T22:45:33Z",
+            "last_commit": "2026-08-28T03:27:37Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 606
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2020-06-10T22:18:12Z",
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 343
-          }
+            "stars": 345
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Roblox",
             "repo": "rodux",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Sleitnick",
             "repo": "AeroGameFramework",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Sleitnick",
             "repo": "rbxts-proton",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "AmaranthineCodices",
             "repo": "roact-material",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         }
       ],
       "title": "Frameworks"
@@ -142,7 +150,8 @@
             "owner": "rojo-rbx",
             "repo": "rojo",
             "stars": 1712
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "roblox-ts",
             "repo": "roblox-ts",
             "stars": 1292
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "evaera",
             "repo": "Cmdr",
             "stars": 519
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "UpliftGames",
             "repo": "wally",
             "stars": 492
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
             "stars": 378
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Roblox",
             "repo": "foreman",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "howmanysmall",
             "repo": "Janitor",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "MaximumADHD",
             "repo": "Rbx2Source",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "Roblox",
             "repo": "Studio-Tools",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "LPGhatguy",
             "repo": "luanoid",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "LPGhatguy",
             "repo": "lemur",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "EgoMoose",
             "repo": "Rbx-Gravity-Controller",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "tiffany352",
             "repo": "RobloxComponentSystem",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "Quenty",
             "repo": "roblox-group-autoranker",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "LPGhatguy",
             "repo": "roblox-lua-promise",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "EgoMooseOldProjects",
             "repo": "Dungeon-generator",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "evaera",
             "repo": "RadialSpriteSheetGenerator",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "dynabloxjs",
             "repo": "dynablox_opencloud",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "rynstwrt",
             "repo": "Pixel-Terrain",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         }
       ],
       "title": "Tools"
@@ -434,8 +461,9 @@
                 "last_commit": "2025-02-19T02:37:39Z",
                 "owner": "F3XTeam",
                 "repo": "RBX-Building-Tools",
-                "stars": 58
-              }
+                "stars": 59
+              },
+              "first_seen": "2026-08-28T05:53:54.793Z"
             }
           ],
           "description": null,
@@ -457,7 +485,8 @@
                 "owner": "tiffany352",
                 "repo": "Roblox-Tag-Editor",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T05:53:54.793Z"
             }
           ],
           "description": null,
@@ -483,7 +512,8 @@
             "owner": "evaera",
             "repo": "RoVer",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -498,7 +528,8 @@
             "owner": "TheIcyStar",
             "repo": "Roblox-DiscordBotService",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         }
       ],
       "title": "Bots"
@@ -518,8 +549,9 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4556
-          }
+            "stars": 4557
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "children": [
@@ -536,7 +568,8 @@
                 "owner": "EgoMoose",
                 "repo": "Articles",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T05:53:54.793Z"
             }
           ],
           "description": null,
@@ -562,7 +595,8 @@
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
             "stars": 720
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -577,7 +611,8 @@
             "owner": "berezaa",
             "repo": "vesteria",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         },
         {
           "node_type": "item",
@@ -592,14 +627,15 @@
             "owner": "Shedletsky",
             "repo": "Open-Source-Levels",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:21.117Z",
+    "last_updated": "2026-08-28T05:53:54.793Z",
     "original_repository_info": {
       "archived": false,
       "id": 146482253,

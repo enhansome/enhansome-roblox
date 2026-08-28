@@ -28,7 +28,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 606 | 🐛 71 | 🌐 Lua | 📅 2026-08-26
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 606 | 🐛 68 | 🌐 Lua | 📅 2026-08-28
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
 * [Rodux](https://github.com/Roblox/rodux) ⭐ 331 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
@@ -72,7 +72,7 @@ Plugins to help you build levels fast!
 
 ### Level Design plugins
 
-* [F3X Building Tools](https://github.com/F3XTeam/RBX-Building-Tools) ⭐ 58 | 🐛 72 | 🌐 Lua | 📅 2025-02-19
+* [F3X Building Tools](https://github.com/F3XTeam/RBX-Building-Tools) ⭐ 59 | 🐛 72 | 🌐 Lua | 📅 2025-02-19
 * [Studio Build Suite](https://www.roblox.com/catalog/260276858/Studio-Build-Suite)
 * [qCmdUtl](https://www.roblox.com/catalog/142314093/qCmdUtl-Streamlined-building)
 * [Oozle Draw](https://www.roblox.com/catalog/172311381/Oozle-Draw-Modified-by-Quenty)
@@ -124,7 +124,7 @@ Open source bots that you can use in your servers!
 
 ## Learning Resources
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,556 | 🐛 47 | 📅 2024-08-11
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,557 | 🐛 47 | 📅 2024-08-11
 * [Scripting Helpers](https://scriptinghelpers.org/)
 * [ROBLOX Developer Hub](http://robloxdev.com/)
 * [Lua Reference Manual](https://www.lua.org/manual/)
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
