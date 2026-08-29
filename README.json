@@ -15,7 +15,7 @@
             "last_commit": "2024-07-31T13:18:03Z",
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 629
+            "stars": 630
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -31,7 +31,7 @@
             "last_commit": "2023-12-13T00:17:58Z",
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 624
+            "stars": 625
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -44,7 +44,7 @@
             "archived": false,
             "id": 12887543,
             "language": "Lua",
-            "last_commit": "2026-08-28T03:27:37Z",
+            "last_commit": "2026-08-29T02:15:21Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 606
@@ -149,7 +149,7 @@
             "last_commit": "2026-07-06T06:15:34Z",
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1712
+            "stars": 1714
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -165,7 +165,7 @@
             "last_commit": "2026-07-25T10:24:22Z",
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1292
+            "stars": 1294
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -213,7 +213,7 @@
             "last_commit": "2026-06-27T21:38:36Z",
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 378
+            "stars": 379
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -245,7 +245,7 @@
             "last_commit": "2026-07-28T21:08:51Z",
             "owner": "howmanysmall",
             "repo": "Janitor",
-            "stars": 147
+            "stars": 148
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -549,7 +549,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4557
+            "stars": 4559
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:53:54.793Z",
+    "last_updated": "2026-08-29T03:26:47.272Z",
     "original_repository_info": {
       "archived": false,
       "id": 146482253,
@@ -643,7 +643,7 @@
       "last_commit": "2025-05-01T21:05:20Z",
       "owner": "elevenpassin",
       "repo": "awesome-roblox",
-      "stars": 193
+      "stars": 194
     },
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
     "enhanced_repository": "enhansome/enhansome-roblox",
