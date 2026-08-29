@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight game framework for Roblox",
+            "homepage": "https://sleitnick.github.io/Knit/",
             "id": 277660877,
             "language": "Luau",
+            "license": "MIT",
             "last_commit": "2024-07-31T13:18:03Z",
+            "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 630
+            "stars": 630,
+            "topics": [
+              "framework",
+              "game",
+              "library",
+              "lua",
+              "luau",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -26,12 +38,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A view management library for Roblox Lua similar to React",
+            "homepage": "https://roblox.github.io/roact",
             "id": 109429829,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-13T00:17:58Z",
+            "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 625
+            "stars": 625,
+            "topics": [
+              "lua",
+              "react",
+              "roblox",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -42,12 +64,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox",
+            "homepage": "https://quenty.github.io/NevermoreEngine/",
             "id": 12887543,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-29T02:15:21Z",
+            "open_issues": 68,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 606
+            "stars": 606,
+            "topics": [
+              "game-development",
+              "lua",
+              "nevermore",
+              "rbxlua",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -58,12 +91,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "All of ROBLOX's core client scripts.",
+            "homepage": null,
             "id": 19040095,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-10T22:18:12Z",
+            "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 345
+            "stars": 345,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -74,12 +112,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A state management library for Roblox Lua inspired by Redux",
+            "homepage": "https://roblox.github.io/rodux",
             "id": 106594329,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-30T18:04:16Z",
+            "open_issues": 13,
             "owner": "Roblox",
             "repo": "rodux",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "lua",
+              "redux",
+              "roblox",
+              "state"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -90,12 +138,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "AeroGameFramework is a Roblox game framework that makes development easy and fun. The framework is designed to simplify the communication between modules and seamlessly bridge the gap between the server and client.",
+            "homepage": "https://sleitnick.github.io/AeroGameFramework/",
             "id": 97989202,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-12-29T00:07:54Z",
+            "open_issues": 11,
             "owner": "Sleitnick",
             "repo": "AeroGameFramework",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "framework",
+              "game",
+              "library",
+              "roblox",
+              "roblox-game-framework"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -106,12 +165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental framework for Roblox game development",
+            "homepage": "https://www.npmjs.com/package/@rbxts/proton",
             "id": 521722841,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-15T04:29:35Z",
+            "open_issues": 3,
             "owner": "Sleitnick",
             "repo": "rbxts-proton",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "framework",
+              "roblox",
+              "roblox-ts",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -122,12 +191,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Material design in Roblox w/ Roact!",
+            "homepage": null,
             "id": 117163111,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-07-11T23:08:41Z",
+            "open_issues": 18,
             "owner": "AmaranthineCodices",
             "repo": "roact-material",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "lua",
+              "material-design",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         }
@@ -144,12 +222,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rojo enables Roblox developers to use professional-grade software engineering tools",
+            "homepage": "https://rojo.space",
             "id": 112544736,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-06T06:15:34Z",
+            "open_issues": 201,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1714
+            "stars": 1714,
+            "topics": [
+              "lua",
+              "roblox",
+              "roblox-studio",
+              "sync"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -160,12 +248,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TypeScript-to-Luau Compiler for Roblox",
+            "homepage": "https://roblox-ts.com/",
             "id": 147587500,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T10:24:22Z",
+            "open_issues": 171,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1294
+            "stars": 1294,
+            "topics": [
+              "compiler",
+              "lua",
+              "roblox",
+              "roblox-studio",
+              "roblox-ts",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -176,12 +276,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensible command console for Roblox developers",
+            "homepage": "https://eryn.io/Cmdr/",
             "id": 135337955,
             "language": "Luau",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:17:38Z",
+            "open_issues": 15,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 519
+            "stars": 519,
+            "topics": [
+              "lua",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -192,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wally is a modern package manager for Roblox projects inspired by Cargo",
+            "homepage": "https://wally.run",
             "id": 389701328,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-01-28T16:55:25Z",
+            "open_issues": 90,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 492
+            "stars": 492,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -208,12 +321,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source custom bootstrapper for Roblox Studio that allows you to override files in Roblox Studio's directory, opt into development branches of Roblox, and experiment with Fast Flags.",
+            "homepage": null,
             "id": 30164638,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-06-27T21:38:36Z",
+            "open_issues": 25,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "c-sharp",
+              "lua",
+              "roblox-studio"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -224,12 +346,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolchain manager for Roblox projects",
+            "homepage": null,
             "id": 227246606,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-01T19:24:31Z",
+            "open_issues": 21,
             "owner": "Roblox",
             "repo": "foreman",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "roblox",
+              "toolchain-manager"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -240,12 +370,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Janitor library.",
+            "homepage": "https://docs.howmanysmall.com/Janitor/",
             "id": 336140422,
             "language": "Luau",
+            "license": "MIT",
             "last_commit": "2026-07-28T21:08:51Z",
+            "open_issues": 5,
             "owner": "howmanysmall",
             "repo": "Janitor",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "cleanup",
+              "gc",
+              "janitor",
+              "luau",
+              "maid",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -256,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A utility tool that automatically assembles Roblox assets into geometry data, which is then compiled into the Source Engine.",
+            "homepage": null,
             "id": 25696809,
             "language": "C#",
+            "license": null,
             "last_commit": "2025-04-06T06:25:39Z",
+            "open_issues": 82,
             "owner": "MaximumADHD",
             "repo": "Rbx2Source",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -272,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Built-in ROBLOX Studio Lua plugins",
+            "homepage": null,
             "id": 30615121,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2017-07-11T17:38:51Z",
+            "open_issues": 20,
             "owner": "Roblox",
             "repo": "Studio-Tools",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -288,12 +440,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Alternative to Roblox Humanoids written entirely in Lua",
+            "homepage": null,
             "id": 126872475,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2018-05-09T22:31:08Z",
+            "open_issues": 11,
             "owner": "LPGhatguy",
             "repo": "luanoid",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -304,12 +461,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Partial implementation of Roblox API in Lua",
+            "homepage": null,
             "id": 106741367,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-06-17T21:00:50Z",
+            "open_issues": 59,
             "owner": "LPGhatguy",
             "repo": "lemur",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -320,12 +482,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Roblox module for allowing characters to defy gravity",
+            "homepage": null,
             "id": 325681499,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-09-03T05:07:24Z",
+            "open_issues": 6,
             "owner": "EgoMoose",
             "repo": "Rbx-Gravity-Controller",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -336,12 +503,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Entity Component System for Roblox.",
+            "homepage": null,
             "id": 135867996,
             "language": "Lua",
+            "license": null,
             "last_commit": "2019-05-19T01:32:21Z",
+            "open_issues": 12,
             "owner": "tiffany352",
             "repo": "RobloxComponentSystem",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -352,12 +524,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A node.js server that helps auto-rank users in groups on Roblox",
+            "homepage": null,
             "id": 54439571,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-01-14T00:01:36Z",
+            "open_issues": 2,
             "owner": "Quenty",
             "repo": "roblox-group-autoranker",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "bot",
+              "nodejs",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -368,12 +549,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "(NO LONGER MAINTAINED) An implementation of promises akin to JavaScript's Promises/A+",
+            "homepage": null,
             "id": 118976870,
             "language": "Lua",
+            "license": "CC0-1.0",
             "last_commit": "2019-09-10T04:25:47Z",
+            "open_issues": 4,
             "owner": "LPGhatguy",
             "repo": "roblox-lua-promise",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -384,12 +570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Roblox dungeon generation module",
+            "homepage": null,
             "id": 51634630,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2016-02-13T06:26:06Z",
+            "open_issues": 0,
             "owner": "EgoMooseOldProjects",
             "repo": "Dungeon-generator",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -400,12 +591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a web app that generates radial progress indicator sprite sheets right in the browser. Primarily made for Roblox, but will work for anything",
+            "homepage": "https://eryn.io/RadialSpriteSheetGenerator/",
             "id": 137230298,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-08T22:11:16Z",
+            "open_issues": 21,
             "owner": "evaera",
             "repo": "RadialSpriteSheetGenerator",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -416,12 +612,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Roblox OpenCloud API wrapper for Deno and NodeJS written in TypeScript.",
+            "homepage": null,
             "id": 475240220,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-18T06:17:39Z",
+            "open_issues": 0,
             "owner": "dynabloxjs",
             "repo": "dynablox_opencloud",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "api",
+              "deno",
+              "dynablox",
+              "nodejs",
+              "opencloud",
+              "rbx",
+              "roblox",
+              "roblox-api",
+              "roblox-dev"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -432,12 +643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roblox plugin to create custom pixel-like terrain.",
+            "homepage": null,
             "id": 50708850,
             "language": "Lua",
+            "license": null,
             "last_commit": "2016-01-31T17:57:11Z",
+            "open_issues": 0,
             "owner": "rynstwrt",
             "repo": "Pixel-Terrain",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         }
@@ -456,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of powerful, easy building tools for ROBLOX.",
+                "homepage": null,
                 "id": 19760151,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-02-19T02:37:39Z",
+                "open_issues": 72,
                 "owner": "F3XTeam",
                 "repo": "RBX-Building-Tools",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:53:54.793Z"
             }
@@ -479,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A plugin for manipulating CollectionService in Roblox Studio.",
+                "homepage": "https://devforum.roblox.com/t/tag-editor-plugin/101465",
                 "id": 99076845,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-05T05:04:08Z",
+                "open_issues": 22,
                 "owner": "tiffany352",
                 "repo": "Roblox-Tag-Editor",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:53:54.793Z"
             }
@@ -506,12 +732,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repo is RoVer V1, which is now deprecated and will no longer work. Get Rover V2 now:  https://rover.link",
+            "homepage": "https://rover.link",
             "id": 87183047,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-09T18:46:46Z",
+            "open_issues": 0,
             "owner": "evaera",
             "repo": "RoVer",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "bot",
+              "discord",
+              "roblox",
+              "verify-users"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -522,12 +758,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A discord bot that manages webhook messages from a roblox game",
+            "homepage": null,
             "id": 98568529,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-13T16:59:10Z",
+            "open_issues": 2,
             "owner": "TheIcyStar",
             "repo": "Roblox-DiscordBotService",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         }
@@ -544,12 +785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of quality Lua packages and resources.",
+            "homepage": null,
             "id": 23039606,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
+            "open_issues": 48,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4559
+            "stars": 4559,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -562,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A place where I put things I write about",
+                "homepage": null,
                 "id": 140586820,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-06-03T20:42:52Z",
+                "open_issues": 0,
                 "owner": "EgoMoose",
                 "repo": "Articles",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:53:54.793Z"
             }
@@ -589,12 +840,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Roblox web APIs",
+            "homepage": null,
             "id": 14993809,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-04T19:18:32Z",
+            "open_issues": 7,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 720
+            "stars": 720,
+            "topics": [
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -605,12 +863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vesteria is a fantasy MMORPG on Roblox- originally founded by berezaa, sk3let0n and Polymorphic in the Roblox Incubator program.",
+            "homepage": null,
             "id": 199747171,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-29T01:36:07Z",
+            "open_issues": 1,
             "owner": "berezaa",
             "repo": "vesteria",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         },
@@ -621,12 +884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of ROBLOX levels that are free to manipulate however you wish",
+            "homepage": null,
             "id": 12231063,
             "language": null,
+            "license": null,
             "last_commit": "2021-12-15T18:55:46Z",
+            "open_issues": 2,
             "owner": "Shedletsky",
             "repo": "Open-Source-Levels",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
         }
@@ -635,15 +903,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:26:47.272Z",
+    "last_updated": "2026-08-29T04:54:50.850Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of ROBLOX resources, plugins and frameworks!",
+      "homepage": "http://buoyantair.co/awesome-roblox/",
       "id": 146482253,
       "language": null,
+      "license": null,
       "last_commit": "2025-05-01T21:05:20Z",
+      "open_issues": 9,
       "owner": "elevenpassin",
       "repo": "awesome-roblox",
-      "stars": 194
+      "stars": 194,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game-development",
+        "roblox"
+      ]
     },
     "original_repository_sha": "8da85f9b6822fa15c3d37f1862cd34f4caddbb25",
     "enhanced_repository": "enhansome/enhansome-roblox",
