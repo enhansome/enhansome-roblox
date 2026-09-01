@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 631,
+            "stars": 630,
             "topics": [
               "framework",
               "game",
@@ -69,11 +69,11 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:15:21Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-01T03:35:50Z",
+            "open_issues": 67,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 608,
+            "stars": 609,
             "topics": [
               "game-development",
               "lua",
@@ -285,7 +285,7 @@
             "open_issues": 15,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "lua",
               "roblox"
@@ -330,7 +330,7 @@
             "open_issues": 25,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 379,
+            "stars": 378,
             "topics": [
               "c-sharp",
               "lua",
@@ -791,10 +791,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4565,
+            "stars": 4564,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:56:09.069Z",
+    "last_updated": "2026-09-01T23:43:30.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
