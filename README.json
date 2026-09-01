@@ -73,7 +73,7 @@
             "open_issues": 68,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 606,
+            "stars": 608,
             "topics": [
               "game-development",
               "lua",
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 346,
+            "stars": 348,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-07-06T06:15:34Z",
-            "open_issues": 202,
+            "open_issues": 203,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1716,
+            "stars": 1717,
             "topics": [
               "lua",
               "roblox",
@@ -306,7 +306,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-01-28T16:55:25Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "UpliftGames",
             "repo": "wally",
             "stars": 493,
@@ -794,7 +794,7 @@
             "open_issues": 48,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4562,
+            "stars": 4565,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:07:05.675Z",
+    "last_updated": "2026-09-01T00:56:09.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
