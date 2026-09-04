@@ -231,7 +231,7 @@
             "open_issues": 203,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1719,
+            "stars": 1721,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 171,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1294,
+            "stars": 1295,
             "topics": [
               "compiler",
               "lua",
@@ -281,11 +281,11 @@
             "id": 135337955,
             "language": "Luau",
             "license": "MIT",
-            "last_commit": "2026-09-03T23:40:16Z",
+            "last_commit": "2026-09-04T11:26:12Z",
             "open_issues": 16,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "lua",
               "roblox"
@@ -681,7 +681,7 @@
                 "open_issues": 72,
                 "owner": "F3XTeam",
                 "repo": "RBX-Building-Tools",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:53:54.793Z"
@@ -794,7 +794,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4565,
+            "stars": 4566,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -846,10 +846,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-11-04T19:18:32Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:44:09.610Z",
+    "last_updated": "2026-09-04T23:36:43.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
