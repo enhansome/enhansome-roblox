@@ -69,7 +69,7 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-03T00:22:10Z",
+            "last_commit": "2026-09-05T20:48:07Z",
             "open_issues": 68,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
@@ -253,8 +253,8 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-25T10:24:22Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-05T22:01:12Z",
+            "open_issues": 172,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
             "stars": 1295,
@@ -285,7 +285,7 @@
             "open_issues": 16,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 522,
+            "stars": 524,
             "topics": [
               "lua",
               "roblox"
@@ -330,7 +330,7 @@
             "open_issues": 25,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "c-sharp",
               "lua",
@@ -791,10 +791,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4566,
+            "stars": 4567,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:36:43.236Z",
+    "last_updated": "2026-09-05T23:28:57.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
@@ -912,7 +912,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-05-01T21:05:20Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "elevenpassin",
       "repo": "awesome-roblox",
       "stars": 195,

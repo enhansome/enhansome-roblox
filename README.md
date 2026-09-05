@@ -28,7 +28,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 609 | 🐛 68 | 🌐 Lua | 📅 2026-09-03
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 609 | 🐛 68 | 🌐 Lua | 📅 2026-09-05
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
 * [Rodux](https://github.com/Roblox/rodux) ⭐ 333 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
@@ -42,10 +42,10 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 Tools to augument your game development experience
 
 * [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,721 | 🐛 203 | 🌐 Rust | 📅 2026-07-06
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,295 | 🐛 171 | 🌐 TypeScript | 📅 2026-07-25
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 522 | 🐛 16 | 🌐 Luau | 📅 2026-09-04
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,295 | 🐛 172 | 🌐 TypeScript | 📅 2026-09-05
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 524 | 🐛 16 | 🌐 Luau | 📅 2026-09-04
 * [wally](https://github.com/UpliftGames/wally) ⭐ 494 | 🐛 91 | 🌐 Rust | 📅 2026-01-28
-* [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 378 | 🐛 25 | 🌐 C# | 📅 2026-09-02
+* [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 379 | 🐛 25 | 🌐 C# | 📅 2026-09-02
 * [Foreman](https://github.com/Roblox/foreman) ⭐ 256 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
 * [Janitor](https://github.com/howmanysmall/Janitor) ⭐ 148 | 🐛 5 | 🌐 Luau | 📅 2026-07-28
 * [Rbx2Source](https://github.com/CloneTrooper1019/Rbx2Source) ⚠️ Archived
@@ -124,7 +124,7 @@ Open source bots that you can use in your servers!
 
 ## Learning Resources
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,566 | 🐛 49 | 📅 2024-08-11
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,567 | 🐛 50 | 📅 2024-08-11
 * [Scripting Helpers](https://scriptinghelpers.org/)
 * [ROBLOX Developer Hub](http://robloxdev.com/)
 * [Lua Reference Manual](https://www.lua.org/manual/)
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
