@@ -41,8 +41,8 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,721 | 🐛 203 | 🌐 Rust | 📅 2026-07-06
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,295 | 🐛 172 | 🌐 TypeScript | 📅 2026-09-05
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,721 | 🐛 204 | 🌐 Rust | 📅 2026-07-06
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,295 | 🐛 171 | 🌐 TypeScript | 📅 2026-09-06
 * [Cmdr](https://github.com/evaera/Cmdr) ⭐ 524 | 🐛 16 | 🌐 Luau | 📅 2026-09-04
 * [wally](https://github.com/UpliftGames/wally) ⭐ 494 | 🐛 91 | 🌐 Rust | 📅 2026-01-28
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 379 | 🐛 25 | 🌐 C# | 📅 2026-09-02
@@ -57,7 +57,7 @@ Tools to augument your game development experience
 * [Group Auto Ranker](https://github.com/Quenty/ROBLOX-group-autoranker) ⭐ 24 | 🐛 2 | 🌐 JavaScript | 📅 2019-01-14
 * [ROBLOX Lua Promise](https://github.com/LPGhatguy/roblox-lua-promise) ⚠️ Archived
 * [Dungeon Generator](https://github.com/EgoMoose/Dungeon-generator) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2016-02-13
-* [Radial SpriteSheet Generator](https://github.com/evaera/RadialSpriteSheetGenerator) ⭐ 14 | 🐛 21 | 🌐 TypeScript | 📅 2022-12-08
+* [Radial SpriteSheet Generator](https://github.com/evaera/RadialSpriteSheetGenerator) ⭐ 15 | 🐛 21 | 🌐 TypeScript | 📅 2022-12-08
 * [Dynablox Opencloud](https://github.com/dynabloxjs/dynablox_opencloud) ⚠️ Archived
 * [Pixel Terrain](https://github.com/rynstwrt/Pixel-Terrain) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2016-01-31
 * [Maid](https://devforum.roblox.com/t/how-to-use-a-maid-class-on-roblox-to-manage-state/340061)
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

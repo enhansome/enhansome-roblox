@@ -228,7 +228,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-07-06T06:15:34Z",
-            "open_issues": 203,
+            "open_issues": 204,
             "owner": "rojo-rbx",
             "repo": "rojo",
             "stars": 1721,
@@ -253,8 +253,8 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T22:01:12Z",
-            "open_issues": 172,
+            "last_commit": "2026-09-06T23:22:45Z",
+            "open_issues": 171,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
             "stars": 1295,
@@ -600,7 +600,7 @@
             "open_issues": 21,
             "owner": "evaera",
             "repo": "RadialSpriteSheetGenerator",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:28:57.498Z",
+    "last_updated": "2026-09-06T23:23:31.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
