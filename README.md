@@ -41,10 +41,10 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,726 | 🐛 204 | 🌐 Rust | 📅 2026-07-06
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,298 | 🐛 143 | 🌐 TypeScript | 📅 2026-09-09
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 524 | 🐛 18 | 🌐 Luau | 📅 2026-09-09
-* [wally](https://github.com/UpliftGames/wally) ⭐ 494 | 🐛 91 | 🌐 Rust | 📅 2026-01-28
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,727 | 🐛 204 | 🌐 Rust | 📅 2026-07-06
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,299 | 🐛 150 | 🌐 TypeScript | 📅 2026-09-10
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 525 | 🐛 19 | 🌐 Luau | 📅 2026-09-10
+* [wally](https://github.com/UpliftGames/wally) ⭐ 495 | 🐛 91 | 🌐 Rust | 📅 2026-01-28
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 380 | 🐛 25 | 🌐 C# | 📅 2026-09-02
 * [Foreman](https://github.com/Roblox/foreman) ⭐ 256 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
 * [Janitor](https://github.com/howmanysmall/Janitor) ⭐ 148 | 🐛 5 | 🌐 Luau | 📅 2026-07-28
@@ -124,7 +124,7 @@ Open source bots that you can use in your servers!
 
 ## Learning Resources
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,567 | 🐛 50 | 📅 2024-08-11
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,569 | 🐛 50 | 📅 2024-08-11
 * [Scripting Helpers](https://scriptinghelpers.org/)
 * [ROBLOX Developer Hub](http://robloxdev.com/)
 * [Lua Reference Manual](https://www.lua.org/manual/)
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
