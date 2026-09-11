@@ -47,7 +47,7 @@
             "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "lua",
               "react",
@@ -73,7 +73,7 @@
             "open_issues": 69,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 611,
+            "stars": 610,
             "topics": [
               "game-development",
               "lua",
@@ -121,7 +121,7 @@
             "open_issues": 13,
             "owner": "Roblox",
             "repo": "rodux",
-            "stars": 333,
+            "stars": 332,
             "topics": [
               "lua",
               "redux",
@@ -231,7 +231,7 @@
             "open_issues": 204,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1727,
+            "stars": 1726,
             "topics": [
               "lua",
               "roblox",
@@ -253,7 +253,7 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T23:28:11Z",
+            "last_commit": "2026-09-11T19:45:10Z",
             "open_issues": 150,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
@@ -281,8 +281,8 @@
             "id": 135337955,
             "language": "Luau",
             "license": "MIT",
-            "last_commit": "2026-09-10T19:19:12Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-11T19:14:09Z",
+            "open_issues": 18,
             "owner": "evaera",
             "repo": "Cmdr",
             "stars": 525,
@@ -309,7 +309,7 @@
             "open_issues": 91,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 495,
+            "stars": 496,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -327,7 +327,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-02T12:50:00Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
             "stars": 380,
@@ -376,7 +376,7 @@
             "language": "Luau",
             "license": "MIT",
             "last_commit": "2026-07-28T21:08:51Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "howmanysmall",
             "repo": "Janitor",
             "stars": 148,
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:36:44.009Z",
+    "last_updated": "2026-09-11T23:45:59.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
