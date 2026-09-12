@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 349,
+            "stars": 350,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -253,11 +253,11 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T19:45:10Z",
-            "open_issues": 150,
+            "last_commit": "2026-09-12T16:07:20Z",
+            "open_issues": 144,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1299,
+            "stars": 1300,
             "topics": [
               "compiler",
               "lua",
@@ -330,7 +330,7 @@
             "open_issues": 26,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 380,
+            "stars": 381,
             "topics": [
               "c-sharp",
               "lua",
@@ -794,7 +794,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4569,
+            "stars": 4570,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:45:59.866Z",
+    "last_updated": "2026-09-12T23:38:29.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
