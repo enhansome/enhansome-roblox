@@ -231,7 +231,7 @@
             "open_issues": 204,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1726,
+            "stars": 1729,
             "topics": [
               "lua",
               "roblox",
@@ -253,7 +253,7 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T16:07:20Z",
+            "last_commit": "2026-09-13T13:54:32Z",
             "open_issues": 144,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
@@ -282,10 +282,10 @@
             "language": "Luau",
             "license": "MIT",
             "last_commit": "2026-09-11T19:14:09Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 525,
+            "stars": 527,
             "topics": [
               "lua",
               "roblox"
@@ -330,7 +330,7 @@
             "open_issues": 26,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "c-sharp",
               "lua",
@@ -379,7 +379,7 @@
             "open_issues": 6,
             "owner": "howmanysmall",
             "repo": "Janitor",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "cleanup",
               "gc",
@@ -741,7 +741,7 @@
             "open_issues": 0,
             "owner": "evaera",
             "repo": "RoVer",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "bot",
               "discord",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:38:29.695Z",
+    "last_updated": "2026-09-13T23:50:14.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
@@ -915,7 +915,7 @@
       "open_issues": 10,
       "owner": "elevenpassin",
       "repo": "awesome-roblox",
-      "stars": 195,
+      "stars": 196,
       "topics": [
         "awesome",
         "awesome-list",
