@@ -28,9 +28,9 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 610 | 🐛 69 | 🌐 Lua | 📅 2026-09-16
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 610 | 🐛 68 | 🌐 Lua | 📅 2026-09-17
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
-* [Rodux](https://github.com/Roblox/rodux) ⭐ 333 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
+* [Rodux](https://github.com/Roblox/rodux) ⭐ 334 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
 * [Proton](https://github.com/Sleitnick/rbxts-proton/) ⭐ 23 | 🐛 3 | 🌐 TypeScript | 📅 2023-02-15
 * [Roact Material](https://github.com/AmaranthineCodices/roact-material) ⚠️ Archived
@@ -41,8 +41,8 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,733 | 🐛 204 | 🌐 Rust | 📅 2026-07-06
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,302 | 🐛 135 | 🌐 TypeScript | 📅 2026-09-16
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,735 | 🐛 204 | 🌐 Rust | 📅 2026-07-06
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,302 | 🐛 134 | 🌐 TypeScript | 📅 2026-09-17
 * [Cmdr](https://github.com/evaera/Cmdr) ⭐ 526 | 🐛 19 | 🌐 Luau | 📅 2026-09-16
 * [wally](https://github.com/UpliftGames/wally) ⭐ 496 | 🐛 91 | 🌐 Rust | 📅 2026-01-28
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 383 | 🐛 26 | 🌐 C# | 📅 2026-09-02
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
