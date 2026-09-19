@@ -69,11 +69,11 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-18T23:29:08Z",
+            "last_commit": "2026-09-19T23:46:30Z",
             "open_issues": 68,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "game-development",
               "lua",
@@ -231,7 +231,7 @@
             "open_issues": 205,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1738,
+            "stars": 1739,
             "topics": [
               "lua",
               "roblox",
@@ -306,7 +306,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-01-28T16:55:25Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "UpliftGames",
             "repo": "wally",
             "stars": 497,
@@ -794,7 +794,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4572,
+            "stars": 4573,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -849,7 +849,7 @@
             "open_issues": 8,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 725,
+            "stars": 724,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:47:41.822Z",
+    "last_updated": "2026-09-19T23:49:43.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
@@ -912,7 +912,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-05-01T21:05:20Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "elevenpassin",
       "repo": "awesome-roblox",
       "stars": 196,
