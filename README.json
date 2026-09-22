@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 631,
+            "stars": 630,
             "topics": [
               "framework",
               "game",
@@ -69,8 +69,8 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-21T20:44:08Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-22T18:41:04Z",
+            "open_issues": 69,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 612,
@@ -231,7 +231,7 @@
             "open_issues": 205,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1743,
+            "stars": 1745,
             "topics": [
               "lua",
               "roblox",
@@ -253,11 +253,11 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T06:02:56Z",
+            "last_commit": "2026-09-22T20:36:33Z",
             "open_issues": 141,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1304,
+            "stars": 1305,
             "topics": [
               "compiler",
               "lua",
@@ -327,7 +327,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-02T12:50:00Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
             "stars": 383,
@@ -355,7 +355,7 @@
             "open_issues": 21,
             "owner": "Roblox",
             "repo": "foreman",
-            "stars": 257,
+            "stars": 258,
             "topics": [
               "roblox",
               "toolchain-manager"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:28:42.286Z",
+    "last_updated": "2026-09-22T23:56:27.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
