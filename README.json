@@ -69,7 +69,7 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-22T18:41:04Z",
+            "last_commit": "2026-09-23T23:52:06Z",
             "open_issues": 69,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 351,
+            "stars": 353,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -231,7 +231,7 @@
             "open_issues": 205,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1745,
+            "stars": 1747,
             "topics": [
               "lua",
               "roblox",
@@ -254,10 +254,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-22T20:36:33Z",
-            "open_issues": 141,
+            "open_issues": 142,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1305,
+            "stars": 1306,
             "topics": [
               "compiler",
               "lua",
@@ -285,7 +285,7 @@
             "open_issues": 20,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 526,
+            "stars": 525,
             "topics": [
               "lua",
               "roblox"
@@ -872,7 +872,7 @@
             "open_issues": 1,
             "owner": "berezaa",
             "repo": "vesteria",
-            "stars": 155,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:56:27.902Z",
+    "last_updated": "2026-09-24T00:09:59.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
