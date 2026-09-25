@@ -28,7 +28,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 612 | 🐛 69 | 🌐 Lua | 📅 2026-09-23
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 612 | 🐛 68 | 🌐 Lua | 📅 2026-09-24
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
 * [Rodux](https://github.com/Roblox/rodux) ⭐ 334 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
@@ -41,9 +41,9 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,747 | 🐛 205 | 🌐 Rust | 📅 2026-07-06
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,306 | 🐛 142 | 🌐 TypeScript | 📅 2026-09-22
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 525 | 🐛 20 | 🌐 Luau | 📅 2026-09-16
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,750 | 🐛 205 | 🌐 Rust | 📅 2026-07-06
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,306 | 🐛 142 | 🌐 TypeScript | 📅 2026-09-24
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 525 | 🐛 19 | 🌐 Luau | 📅 2026-09-16
 * [wally](https://github.com/UpliftGames/wally) ⭐ 497 | 🐛 92 | 🌐 Rust | 📅 2026-01-28
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 383 | 🐛 27 | 🌐 C# | 📅 2026-09-02
 * [Foreman](https://github.com/Roblox/foreman) ⭐ 258 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
@@ -145,7 +145,7 @@ Open source bots that you can use in your servers!
 
 ### Blogs
 
-* [EgoMoose's Articles](https://github.com/EgoMoose/Articles) ⭐ 147 | 🐛 0 | 🌐 Lua | 📅 2024-06-03
+* [EgoMoose's Articles](https://github.com/EgoMoose/Articles) ⭐ 148 | 🐛 0 | 🌐 Lua | 📅 2024-06-03
 * [amaranthinecodices](https://amaranthinecodices.me/post/)
 * [Ozzy's Blog](https://ozzypig.com/)
 * [Quenty's Blog](https://medium.com/roblox-development)
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
