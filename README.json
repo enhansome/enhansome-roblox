@@ -70,10 +70,10 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-24T18:50:56Z",
-            "open_issues": 68,
+            "open_issues": 67,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 613,
+            "stars": 614,
             "topics": [
               "game-development",
               "lua",
@@ -231,7 +231,7 @@
             "open_issues": 205,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1751,
+            "stars": 1754,
             "topics": [
               "lua",
               "roblox",
@@ -253,8 +253,8 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T06:03:16Z",
-            "open_issues": 142,
+            "last_commit": "2026-09-26T03:50:25Z",
+            "open_issues": 143,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
             "stars": 1307,
@@ -305,8 +305,8 @@
             "id": 389701328,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-01-28T16:55:25Z",
-            "open_issues": 92,
+            "last_commit": "2026-09-26T21:00:00Z",
+            "open_issues": 89,
             "owner": "UpliftGames",
             "repo": "wally",
             "stars": 498,
@@ -355,7 +355,7 @@
             "open_issues": 21,
             "owner": "Roblox",
             "repo": "foreman",
-            "stars": 260,
+            "stars": 261,
             "topics": [
               "roblox",
               "toolchain-manager"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:18:55.641Z",
+    "last_updated": "2026-09-27T00:05:29.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
