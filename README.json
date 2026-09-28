@@ -47,7 +47,7 @@
             "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 626,
+            "stars": 625,
             "topics": [
               "lua",
               "react",
@@ -121,7 +121,7 @@
             "open_issues": 13,
             "owner": "Roblox",
             "repo": "rodux",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "lua",
               "redux",
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-07-06T06:15:34Z",
-            "open_issues": 205,
+            "open_issues": 206,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1754,
+            "stars": 1756,
             "topics": [
               "lua",
               "roblox",
@@ -285,7 +285,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 525,
+            "stars": 526,
             "topics": [
               "lua",
               "roblox"
@@ -893,7 +893,7 @@
             "open_issues": 2,
             "owner": "Shedletsky",
             "repo": "Open-Source-Levels",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:05:29.951Z",
+    "last_updated": "2026-09-28T00:12:50.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",

@@ -30,7 +30,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
 * [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 614 | 🐛 67 | 🌐 Lua | 📅 2026-09-24
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
-* [Rodux](https://github.com/Roblox/rodux) ⭐ 334 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
+* [Rodux](https://github.com/Roblox/rodux) ⭐ 335 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
 * [Proton](https://github.com/Sleitnick/rbxts-proton/) ⭐ 23 | 🐛 3 | 🌐 TypeScript | 📅 2023-02-15
 * [Roact Material](https://github.com/AmaranthineCodices/roact-material) ⚠️ Archived
@@ -41,9 +41,9 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,754 | 🐛 205 | 🌐 Rust | 📅 2026-07-06
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,756 | 🐛 206 | 🌐 Rust | 📅 2026-07-06
 * [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,307 | 🐛 143 | 🌐 TypeScript | 📅 2026-09-26
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 525 | 🐛 19 | 🌐 Luau | 📅 2026-09-16
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 526 | 🐛 19 | 🌐 Luau | 📅 2026-09-16
 * [wally](https://github.com/UpliftGames/wally) ⭐ 498 | 🐛 89 | 🌐 Rust | 📅 2026-09-26
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 384 | 🐛 27 | 🌐 C# | 📅 2026-09-02
 * [Foreman](https://github.com/Roblox/foreman) ⭐ 261 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
@@ -162,7 +162,7 @@ Open source bots that you can use in your servers!
 
 * [ROBLOX Web APIs by matthewdean](https://github.com/matthewdean/roblox-web-apis) ⭐ 725 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-20
 * [Vesteria](https://github.com/berezaa/vesteria) ⭐ 155 | 🐛 1 | 🌐 Lua | 📅 2020-10-29
-* [Open Source Levels](https://github.com/Shedletsky/Open-Source-Levels) ⭐ 21 | 🐛 2 | 📅 2021-12-15
+* [Open Source Levels](https://github.com/Shedletsky/Open-Source-Levels) ⭐ 22 | 🐛 2 | 📅 2021-12-15
 * [Lua Style Guide](https://roblox.github.io/lua-style-guide/)
 * [ROBLOX API Reference](https://robloxapi.github.io/ref/index.html)
 * [ROBLOX Web APIs](https://api.roblox.com/docs?useConsolidatedPage=true)
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
