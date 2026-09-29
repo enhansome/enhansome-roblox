@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "framework",
               "game",
@@ -73,7 +73,7 @@
             "open_issues": 67,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 614,
+            "stars": 615,
             "topics": [
               "game-development",
               "lua",
@@ -147,7 +147,7 @@
             "open_issues": 11,
             "owner": "Sleitnick",
             "repo": "AeroGameFramework",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "framework",
               "game",
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-07-06T06:15:34Z",
-            "open_issues": 206,
+            "open_issues": 207,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1756,
+            "stars": 1757,
             "topics": [
               "lua",
               "roblox",
@@ -253,11 +253,11 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T03:50:25Z",
+            "last_commit": "2026-09-28T06:03:25Z",
             "open_issues": 143,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1307,
+            "stars": 1308,
             "topics": [
               "compiler",
               "lua",
@@ -285,7 +285,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 526,
+            "stars": 527,
             "topics": [
               "lua",
               "roblox"
@@ -355,7 +355,7 @@
             "open_issues": 21,
             "owner": "Roblox",
             "repo": "foreman",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "roblox",
               "toolchain-manager"
@@ -600,7 +600,7 @@
             "open_issues": 21,
             "owner": "evaera",
             "repo": "RadialSpriteSheetGenerator",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -794,7 +794,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4576,
+            "stars": 4577,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -872,7 +872,7 @@
             "open_issues": 1,
             "owner": "berezaa",
             "repo": "vesteria",
-            "stars": 155,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T00:12:50.341Z",
+    "last_updated": "2026-09-29T01:22:57.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
