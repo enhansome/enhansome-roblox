@@ -47,7 +47,7 @@
             "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "lua",
               "react",
@@ -73,7 +73,7 @@
             "open_issues": 67,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 615,
+            "stars": 616,
             "topics": [
               "game-development",
               "lua",
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-07-06T06:15:34Z",
-            "open_issues": 207,
+            "open_issues": 208,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1757,
+            "stars": 1758,
             "topics": [
               "lua",
               "roblox",
@@ -253,8 +253,8 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T06:03:25Z",
-            "open_issues": 143,
+            "last_commit": "2026-09-29T16:31:19Z",
+            "open_issues": 144,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
             "stars": 1308,
@@ -281,11 +281,11 @@
             "id": 135337955,
             "language": "Luau",
             "license": "MIT",
-            "last_commit": "2026-09-16T20:31:36Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-29T13:43:55Z",
+            "open_issues": 17,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "lua",
               "roblox"
@@ -794,7 +794,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4577,
+            "stars": 4578,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 725,
+            "stars": 726,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:22:57.358Z",
+    "last_updated": "2026-09-30T00:56:30.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
