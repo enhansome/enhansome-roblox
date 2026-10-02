@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-07-06T06:15:34Z",
-            "open_issues": 208,
+            "open_issues": 209,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1760,
+            "stars": 1762,
             "topics": [
               "lua",
               "roblox",
@@ -253,11 +253,11 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T13:56:14Z",
-            "open_issues": 144,
+            "last_commit": "2026-10-01T13:48:58Z",
+            "open_issues": 134,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1309,
+            "stars": 1308,
             "topics": [
               "compiler",
               "lua",
@@ -794,7 +794,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4578,
+            "stars": 4579,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:59:01.431Z",
+    "last_updated": "2026-10-02T01:13:39.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
