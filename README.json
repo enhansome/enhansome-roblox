@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Knit",
-          "description": null,
+          "description": "Sleitnick/Knit",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Roact",
-          "description": null,
+          "description": "Roblox/roact",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -60,7 +60,7 @@
         {
           "node_type": "item",
           "title": "Nevermore Engine",
-          "description": null,
+          "description": "Quenty/NevermoreEngine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -87,7 +87,7 @@
         {
           "node_type": "item",
           "title": "ROBLOX Core Scripts",
-          "description": null,
+          "description": "Roblox/Core-Scripts",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 353,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -108,7 +108,7 @@
         {
           "node_type": "item",
           "title": "Rodux",
-          "description": null,
+          "description": "Roblox/rodux",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -134,7 +134,7 @@
         {
           "node_type": "item",
           "title": "Aero Game Framework",
-          "description": null,
+          "description": "Sleitnick/AeroGameFramework",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "Proton",
-          "description": null,
+          "description": "Sleitnick/rbxts-proton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -187,7 +187,7 @@
         {
           "node_type": "item",
           "title": "Roact Material",
-          "description": null,
+          "description": "AmaranthineCodices/roact-material",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -218,7 +218,7 @@
         {
           "node_type": "item",
           "title": "Rojo",
-          "description": null,
+          "description": "rojo-rbx/rojo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "roblox-ts",
-          "description": null,
+          "description": "roblox-ts/roblox-ts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -272,7 +272,7 @@
         {
           "node_type": "item",
           "title": "Cmdr",
-          "description": null,
+          "description": "evaera/Cmdr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,7 +296,7 @@
         {
           "node_type": "item",
           "title": "wally",
-          "description": null,
+          "description": "UpliftGames/wally",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -317,7 +317,7 @@
         {
           "node_type": "item",
           "title": "ROBLOX Studio Mod Manager",
-          "description": null,
+          "description": "MaximumADHD/Roblox-Studio-Mod-Manager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -342,7 +342,7 @@
         {
           "node_type": "item",
           "title": "Foreman",
-          "description": null,
+          "description": "Roblox/foreman",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -366,7 +366,7 @@
         {
           "node_type": "item",
           "title": "Janitor",
-          "description": null,
+          "description": "howmanysmall/Janitor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -394,7 +394,7 @@
         {
           "node_type": "item",
           "title": "Rbx2Source",
-          "description": null,
+          "description": "MaximumADHD/Rbx2Source",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -415,7 +415,7 @@
         {
           "node_type": "item",
           "title": "ROBLOX Studio Tools",
-          "description": null,
+          "description": "Roblox/Studio-Tools",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -436,7 +436,7 @@
         {
           "node_type": "item",
           "title": "Luanoid",
-          "description": null,
+          "description": "LPGhatguy/luanoid",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "Lemur",
-          "description": null,
+          "description": "LPGhatguy/lemur",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -478,7 +478,7 @@
         {
           "node_type": "item",
           "title": "Rbx Gravity Controller",
-          "description": null,
+          "description": "EgoMoose/Rbx-Gravity-Controller",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -499,7 +499,7 @@
         {
           "node_type": "item",
           "title": "Entity Component System",
-          "description": null,
+          "description": "tiffany352/RobloxComponentSystem",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -520,7 +520,7 @@
         {
           "node_type": "item",
           "title": "Group Auto Ranker",
-          "description": null,
+          "description": "Quenty/roblox-group-autoranker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -545,7 +545,7 @@
         {
           "node_type": "item",
           "title": "ROBLOX Lua Promise",
-          "description": null,
+          "description": "LPGhatguy/roblox-lua-promise",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -566,7 +566,7 @@
         {
           "node_type": "item",
           "title": "Dungeon Generator",
-          "description": null,
+          "description": "EgoMooseOldProjects/Dungeon-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -587,7 +587,7 @@
         {
           "node_type": "item",
           "title": "Radial SpriteSheet Generator",
-          "description": null,
+          "description": "evaera/RadialSpriteSheetGenerator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +608,7 @@
         {
           "node_type": "item",
           "title": "Dynablox Opencloud",
-          "description": null,
+          "description": "dynabloxjs/dynablox_opencloud",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -639,7 +639,7 @@
         {
           "node_type": "item",
           "title": "Pixel Terrain",
-          "description": null,
+          "description": "rynstwrt/Pixel-Terrain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -668,7 +668,7 @@
             {
               "node_type": "item",
               "title": "F3X Building Tools",
-              "description": null,
+              "description": "F3XTeam/RBX-Building-Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -696,7 +696,7 @@
             {
               "node_type": "item",
               "title": "Tag editor",
-              "description": null,
+              "description": "tiffany352/Roblox-Tag-Editor",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -728,7 +728,7 @@
         {
           "node_type": "item",
           "title": "RoVer",
-          "description": null,
+          "description": "evaera/RoVer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -754,7 +754,7 @@
         {
           "node_type": "item",
           "title": "Discord Bot Service",
-          "description": null,
+          "description": "TheIcyStar/Roblox-DiscordBotService",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -781,7 +781,7 @@
         {
           "node_type": "item",
           "title": "Awesome Lua",
-          "description": null,
+          "description": "LewisJEllis/awesome-lua",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -804,7 +804,7 @@
             {
               "node_type": "item",
               "title": "EgoMoose's Articles",
-              "description": null,
+              "description": "EgoMoose/Articles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -836,7 +836,7 @@
         {
           "node_type": "item",
           "title": "ROBLOX Web APIs by matthewdean",
-          "description": null,
+          "description": "matthewdean/roblox-web-apis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -859,7 +859,7 @@
         {
           "node_type": "item",
           "title": "Vesteria",
-          "description": null,
+          "description": "berezaa/vesteria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -880,7 +880,7 @@
         {
           "node_type": "item",
           "title": "Open Source Levels",
-          "description": null,
+          "description": "Shedletsky/Open-Source-Levels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:51:58.755Z",
+    "last_updated": "2026-10-03T05:10:30.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
