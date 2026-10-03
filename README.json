@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 354,
+            "stars": 353,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -227,11 +227,11 @@
             "id": 112544736,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-07-06T06:15:34Z",
-            "open_issues": 209,
+            "last_commit": "2026-10-02T06:52:24Z",
+            "open_issues": 207,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1762,
+            "stars": 1765,
             "topics": [
               "lua",
               "roblox",
@@ -253,8 +253,8 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T13:48:58Z",
-            "open_issues": 134,
+            "last_commit": "2026-10-02T06:02:58Z",
+            "open_issues": 135,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
             "stars": 1308,
@@ -285,7 +285,7 @@
             "open_issues": 17,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "lua",
               "roblox"
@@ -330,7 +330,7 @@
             "open_issues": 27,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "c-sharp",
               "lua",
@@ -449,7 +449,7 @@
             "open_issues": 11,
             "owner": "LPGhatguy",
             "repo": "luanoid",
-            "stars": 67,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -794,7 +794,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4579,
+            "stars": 4578,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:13:39.757Z",
+    "last_updated": "2026-10-03T00:51:58.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
