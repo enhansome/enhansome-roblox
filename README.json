@@ -47,7 +47,7 @@
             "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 626,
+            "stars": 625,
             "topics": [
               "lua",
               "react",
@@ -231,7 +231,7 @@
             "open_issues": 207,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1765,
+            "stars": 1767,
             "topics": [
               "lua",
               "roblox",
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 727,
+            "stars": 726,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:30.416Z",
+    "last_updated": "2026-10-04T00:17:08.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
