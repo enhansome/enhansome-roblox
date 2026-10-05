@@ -227,11 +227,11 @@
             "id": 112544736,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-02T06:52:24Z",
-            "open_issues": 207,
+            "last_commit": "2026-10-04T18:58:05Z",
+            "open_issues": 209,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1767,
+            "stars": 1771,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 135,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1308,
+            "stars": 1309,
             "topics": [
               "compiler",
               "lua",
@@ -285,7 +285,7 @@
             "open_issues": 17,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "lua",
               "roblox"
@@ -306,7 +306,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-09-26T21:00:00Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "UpliftGames",
             "repo": "wally",
             "stars": 499,
@@ -330,7 +330,7 @@
             "open_issues": 27,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 387,
+            "stars": 389,
             "topics": [
               "c-sharp",
               "lua",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:17:08.505Z",
+    "last_updated": "2026-10-05T00:21:43.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
