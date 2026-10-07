@@ -41,7 +41,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,773 | 🐛 209 | 🌐 Rust | 📅 2026-10-06
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,773 | 🐛 210 | 🌐 Rust | 📅 2026-10-06
 * [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,310 | 🐛 135 | 🌐 TypeScript | 📅 2026-10-05
 * [Cmdr](https://github.com/evaera/Cmdr) ⭐ 529 | 🐛 17 | 🌐 Luau | 📅 2026-09-30
 * [wally](https://github.com/UpliftGames/wally) ⭐ 499 | 🐛 90 | 🌐 Rust | 📅 2026-09-26
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
