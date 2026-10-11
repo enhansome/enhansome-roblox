@@ -41,12 +41,12 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,781 | 🐛 211 | 🌐 Rust | 📅 2026-10-06
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,310 | 🐛 135 | 🌐 TypeScript | 📅 2026-10-05
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 528 | 🐛 17 | 🌐 Luau | 📅 2026-09-30
-* [wally](https://github.com/UpliftGames/wally) ⭐ 499 | 🐛 90 | 🌐 Rust | 📅 2026-09-26
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,781 | 🐛 212 | 🌐 Rust | 📅 2026-10-06
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,311 | 🐛 135 | 🌐 TypeScript | 📅 2026-10-05
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 528 | 🐛 17 | 🌐 Luau | 📅 2026-10-10
+* [wally](https://github.com/UpliftGames/wally) ⭐ 500 | 🐛 90 | 🌐 Rust | 📅 2026-09-26
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 391 | 🐛 27 | 🌐 C# | 📅 2026-09-02
-* [Foreman](https://github.com/Roblox/foreman) ⭐ 262 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
+* [Foreman](https://github.com/Roblox/foreman) ⭐ 263 | 🐛 21 | 🌐 Rust | 📅 2026-05-01
 * [Janitor](https://github.com/howmanysmall/Janitor) ⭐ 149 | 🐛 6 | 🌐 Luau | 📅 2026-07-28
 * [Rbx2Source](https://github.com/CloneTrooper1019/Rbx2Source) ⚠️ Archived
 * [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools) ⚠️ Archived
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

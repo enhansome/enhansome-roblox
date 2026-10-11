@@ -228,7 +228,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-06T01:02:36Z",
-            "open_issues": 211,
+            "open_issues": 212,
             "owner": "rojo-rbx",
             "repo": "rojo",
             "stars": 1781,
@@ -257,7 +257,7 @@
             "open_issues": 135,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1310,
+            "stars": 1311,
             "topics": [
               "compiler",
               "lua",
@@ -281,7 +281,7 @@
             "id": 135337955,
             "language": "Luau",
             "license": "MIT",
-            "last_commit": "2026-09-30T10:06:03Z",
+            "last_commit": "2026-10-10T19:56:06Z",
             "open_issues": 17,
             "owner": "evaera",
             "repo": "Cmdr",
@@ -309,7 +309,7 @@
             "open_issues": 90,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 499,
+            "stars": 500,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -355,7 +355,7 @@
             "open_issues": 21,
             "owner": "Roblox",
             "repo": "foreman",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "roblox",
               "toolchain-manager"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:25:51.516Z",
+    "last_updated": "2026-10-11T00:36:50.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
