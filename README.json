@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 628,
+            "stars": 629,
             "topics": [
               "framework",
               "game",
@@ -69,8 +69,8 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-09T08:20:54Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-14T00:40:56Z",
+            "open_issues": 69,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 616,
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 355,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-06T01:02:36Z",
-            "open_issues": 213,
+            "open_issues": 214,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1790,
+            "stars": 1791,
             "topics": [
               "lua",
               "roblox",
@@ -285,7 +285,7 @@
             "open_issues": 17,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "lua",
               "roblox"
@@ -794,7 +794,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4586,
+            "stars": 4584,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:47:34.772Z",
+    "last_updated": "2026-10-14T00:47:56.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
