@@ -69,7 +69,7 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-14T00:40:56Z",
+            "last_commit": "2026-10-14T01:29:29Z",
             "open_issues": 69,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
@@ -231,7 +231,7 @@
             "open_issues": 214,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1791,
+            "stars": 1793,
             "topics": [
               "lua",
               "roblox",
@@ -253,11 +253,11 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T17:39:30Z",
+            "last_commit": "2026-10-14T16:10:04Z",
             "open_issues": 137,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1313,
+            "stars": 1314,
             "topics": [
               "compiler",
               "lua",
@@ -330,7 +330,7 @@
             "open_issues": 27,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 393,
+            "stars": 392,
             "topics": [
               "c-sharp",
               "lua",
@@ -794,7 +794,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4584,
+            "stars": 4583,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 727,
+            "stars": 726,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:47:56.125Z",
+    "last_updated": "2026-10-15T00:13:44.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
