@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 630,
+            "stars": 631,
             "topics": [
               "framework",
               "game",
@@ -69,11 +69,11 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-14T01:29:29Z",
-            "open_issues": 69,
+            "last_commit": "2026-10-16T23:41:46Z",
+            "open_issues": 70,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 618,
+            "stars": 619,
             "topics": [
               "game-development",
               "lua",
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 356,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-06T01:02:36Z",
-            "open_issues": 214,
+            "open_issues": 215,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1795,
+            "stars": 1799,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 137,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1314,
+            "stars": 1316,
             "topics": [
               "compiler",
               "lua",
@@ -285,7 +285,7 @@
             "open_issues": 17,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 530,
+            "stars": 532,
             "topics": [
               "lua",
               "roblox"
@@ -309,7 +309,7 @@
             "open_issues": 88,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 501,
+            "stars": 502,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -794,7 +794,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4583,
+            "stars": 4585,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:00:28.199Z",
+    "last_updated": "2026-10-17T00:05:39.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
