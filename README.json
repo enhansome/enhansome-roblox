@@ -73,7 +73,7 @@
             "open_issues": 69,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 621,
+            "stars": 622,
             "topics": [
               "game-development",
               "lua",
@@ -231,7 +231,7 @@
             "open_issues": 217,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1811,
+            "stars": 1812,
             "topics": [
               "lua",
               "roblox",
@@ -281,11 +281,11 @@
             "id": 135337955,
             "language": "Luau",
             "license": "MIT",
-            "last_commit": "2026-10-10T19:56:06Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-21T21:27:05Z",
+            "open_issues": 18,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 532,
+            "stars": 533,
             "topics": [
               "lua",
               "roblox"
@@ -326,7 +326,7 @@
             "id": 30164638,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-02T12:50:00Z",
+            "last_commit": "2026-10-21T09:07:06Z",
             "open_issues": 27,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
@@ -741,7 +741,7 @@
             "open_issues": 0,
             "owner": "evaera",
             "repo": "RoVer",
-            "stars": 151,
+            "stars": 150,
             "topics": [
               "bot",
               "discord",
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:18:13.834Z",
+    "last_updated": "2026-10-22T00:20:59.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
@@ -912,7 +912,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-05-01T21:05:20Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "elevenpassin",
       "repo": "awesome-roblox",
       "stars": 197,
