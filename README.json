@@ -69,11 +69,11 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-20T03:20:11Z",
-            "open_issues": 69,
+            "last_commit": "2026-10-22T03:50:12Z",
+            "open_issues": 68,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 622,
+            "stars": 624,
             "topics": [
               "game-development",
               "lua",
@@ -231,7 +231,7 @@
             "open_issues": 217,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1812,
+            "stars": 1815,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 138,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1322,
+            "stars": 1323,
             "topics": [
               "compiler",
               "lua",
@@ -678,7 +678,7 @@
                 "language": "Lua",
                 "license": null,
                 "last_commit": "2025-02-19T02:37:39Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "F3XTeam",
                 "repo": "RBX-Building-Tools",
                 "stars": 62,
@@ -794,7 +794,7 @@
             "open_issues": 51,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4587,
+            "stars": 4588,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 727,
+            "stars": 728,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:20:59.655Z",
+    "last_updated": "2026-10-23T00:19:36.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
