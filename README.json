@@ -69,8 +69,8 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-22T03:50:12Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-24T21:44:50Z",
+            "open_issues": 76,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 624,
@@ -257,7 +257,7 @@
             "open_issues": 138,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1323,
+            "stars": 1324,
             "topics": [
               "compiler",
               "lua",
@@ -309,7 +309,7 @@
             "open_issues": 88,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 505,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -379,7 +379,7 @@
             "open_issues": 6,
             "owner": "howmanysmall",
             "repo": "Janitor",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "cleanup",
               "gc",
@@ -794,7 +794,7 @@
             "open_issues": 51,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4588,
+            "stars": 4589,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:10:09.373Z",
+    "last_updated": "2026-10-24T23:54:46.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
