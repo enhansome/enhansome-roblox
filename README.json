@@ -47,7 +47,7 @@
             "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 626,
+            "stars": 625,
             "topics": [
               "lua",
               "react",
@@ -69,8 +69,8 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-24T21:44:50Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-25T07:12:57Z",
+            "open_issues": 78,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 624,
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-06T01:02:36Z",
-            "open_issues": 218,
+            "open_issues": 219,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1818,
+            "stars": 1821,
             "topics": [
               "lua",
               "roblox",
@@ -254,7 +254,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-23T06:03:23Z",
-            "open_issues": 138,
+            "open_issues": 139,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
             "stars": 1324,
@@ -282,10 +282,10 @@
             "language": "Luau",
             "license": "MIT",
             "last_commit": "2026-10-21T21:27:05Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "lua",
               "roblox"
@@ -309,7 +309,7 @@
             "open_issues": 88,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 506,
+            "stars": 507,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -681,7 +681,7 @@
                 "open_issues": 73,
                 "owner": "F3XTeam",
                 "repo": "RBX-Building-Tools",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:53:54.793Z"
@@ -817,7 +817,7 @@
                 "open_issues": 0,
                 "owner": "EgoMoose",
                 "repo": "Articles",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:53:54.793Z"
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 729,
+            "stars": 728,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:54:46.442Z",
+    "last_updated": "2026-10-25T23:42:24.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",

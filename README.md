@@ -28,7 +28,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 624 | 🐛 76 | 🌐 Lua | 📅 2026-10-24
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 624 | 🐛 78 | 🌐 Lua | 📅 2026-10-25
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
 * [Rodux](https://github.com/Roblox/rodux) ⭐ 336 | 🐛 13 | 🌐 Lua | 📅 2026-06-30
 * [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework) ⚠️ Archived
@@ -41,10 +41,10 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,818 | 🐛 218 | 🌐 Rust | 📅 2026-10-06
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,324 | 🐛 138 | 🌐 TypeScript | 📅 2026-10-23
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 534 | 🐛 18 | 🌐 Luau | 📅 2026-10-21
-* [wally](https://github.com/UpliftGames/wally) ⭐ 506 | 🐛 88 | 🌐 Rust | 📅 2026-10-12
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,821 | 🐛 219 | 🌐 Rust | 📅 2026-10-06
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,324 | 🐛 139 | 🌐 TypeScript | 📅 2026-10-23
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 535 | 🐛 19 | 🌐 Luau | 📅 2026-10-21
+* [wally](https://github.com/UpliftGames/wally) ⭐ 507 | 🐛 88 | 🌐 Rust | 📅 2026-10-12
 * [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager) ⭐ 394 | 🐛 27 | 🌐 C# | 📅 2026-10-21
 * [Foreman](https://github.com/Roblox/foreman) ⭐ 263 | 🐛 19 | 🌐 Rust | 📅 2026-05-01
 * [Janitor](https://github.com/howmanysmall/Janitor) ⭐ 152 | 🐛 6 | 🌐 Luau | 📅 2026-07-28
@@ -72,7 +72,7 @@ Plugins to help you build levels fast!
 
 ### Level Design plugins
 
-* [F3X Building Tools](https://github.com/F3XTeam/RBX-Building-Tools) ⭐ 62 | 🐛 73 | 🌐 Lua | 📅 2025-02-19
+* [F3X Building Tools](https://github.com/F3XTeam/RBX-Building-Tools) ⭐ 63 | 🐛 73 | 🌐 Lua | 📅 2025-02-19
 * [Studio Build Suite](https://www.roblox.com/catalog/260276858/Studio-Build-Suite)
 * [qCmdUtl](https://www.roblox.com/catalog/142314093/qCmdUtl-Streamlined-building)
 * [Oozle Draw](https://www.roblox.com/catalog/172311381/Oozle-Draw-Modified-by-Quenty)
@@ -145,7 +145,7 @@ Open source bots that you can use in your servers!
 
 ### Blogs
 
-* [EgoMoose's Articles](https://github.com/EgoMoose/Articles) ⭐ 148 | 🐛 0 | 🌐 Lua | 📅 2024-06-03
+* [EgoMoose's Articles](https://github.com/EgoMoose/Articles) ⭐ 149 | 🐛 0 | 🌐 Lua | 📅 2024-06-03
 * [amaranthinecodices](https://amaranthinecodices.me/post/)
 * [Ozzy's Blog](https://ozzypig.com/)
 * [Quenty's Blog](https://medium.com/roblox-development)
@@ -160,7 +160,7 @@ Open source bots that you can use in your servers!
 
 ## Other
 
-* [ROBLOX Web APIs by matthewdean](https://github.com/matthewdean/roblox-web-apis) ⭐ 729 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-20
+* [ROBLOX Web APIs by matthewdean](https://github.com/matthewdean/roblox-web-apis) ⭐ 728 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-20
 * [Vesteria](https://github.com/berezaa/vesteria) ⭐ 156 | 🐛 1 | 🌐 Lua | 📅 2020-10-29
 * [Open Source Levels](https://github.com/Shedletsky/Open-Source-Levels) ⭐ 23 | 🐛 2 | 📅 2021-12-15
 * [Lua Style Guide](https://roblox.github.io/lua-style-guide/)
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
