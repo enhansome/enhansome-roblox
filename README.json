@@ -33,6 +33,33 @@
         },
         {
           "node_type": "item",
+          "title": "Nevermore Engine",
+          "description": "Quenty/NevermoreEngine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox",
+            "homepage": "https://quenty.github.io/NevermoreEngine/",
+            "id": 12887543,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2026-10-27T22:53:41Z",
+            "open_issues": 79,
+            "owner": "Quenty",
+            "repo": "NevermoreEngine",
+            "stars": 625,
+            "topics": [
+              "game-development",
+              "lua",
+              "nevermore",
+              "rbxlua",
+              "roblox"
+            ]
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
+        },
+        {
+          "node_type": "item",
           "title": "Roact",
           "description": "Roblox/roact",
           "children": [],
@@ -53,33 +80,6 @@
               "react",
               "roblox",
               "ui"
-            ]
-          },
-          "first_seen": "2026-08-28T05:53:54.793Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Nevermore Engine",
-          "description": "Quenty/NevermoreEngine",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox",
-            "homepage": "https://quenty.github.io/NevermoreEngine/",
-            "id": 12887543,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2026-10-27T00:05:03Z",
-            "open_issues": 78,
-            "owner": "Quenty",
-            "repo": "NevermoreEngine",
-            "stars": 624,
-            "topics": [
-              "game-development",
-              "lua",
-              "nevermore",
-              "rbxlua",
-              "roblox"
             ]
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -231,7 +231,7 @@
             "open_issues": 219,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1823,
+            "stars": 1825,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 139,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1323,
+            "stars": 1324,
             "topics": [
               "compiler",
               "lua",
@@ -285,7 +285,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 535,
+            "stars": 537,
             "topics": [
               "lua",
               "roblox"
@@ -326,8 +326,8 @@
             "id": 30164638,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-21T09:07:06Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-27T07:06:31Z",
+            "open_issues": 26,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
             "stars": 394,
@@ -794,7 +794,7 @@
             "open_issues": 51,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4589,
+            "stars": 4591,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 728,
+            "stars": 727,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:02:06.114Z",
+    "last_updated": "2026-10-28T00:51:42.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
