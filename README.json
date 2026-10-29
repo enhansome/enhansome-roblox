@@ -43,8 +43,8 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-27T22:53:41Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-28T22:21:51Z",
+            "open_issues": 78,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
             "stars": 625,
@@ -121,7 +121,7 @@
             "open_issues": 13,
             "owner": "Roblox",
             "repo": "rodux",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "lua",
               "redux",
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-06T01:02:36Z",
-            "open_issues": 219,
+            "open_issues": 221,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1825,
+            "stars": 1832,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 139,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1324,
+            "stars": 1325,
             "topics": [
               "compiler",
               "lua",
@@ -330,7 +330,7 @@
             "open_issues": 26,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "c-sharp",
               "lua",
@@ -794,7 +794,7 @@
             "open_issues": 51,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4591,
+            "stars": 4592,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:51:42.708Z",
+    "last_updated": "2026-10-29T01:28:10.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
@@ -915,7 +915,7 @@
       "open_issues": 13,
       "owner": "elevenpassin",
       "repo": "awesome-roblox",
-      "stars": 197,
+      "stars": 198,
       "topics": [
         "awesome",
         "awesome-list",
