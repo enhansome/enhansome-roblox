@@ -47,7 +47,7 @@
             "open_issues": 78,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "game-development",
               "lua",
@@ -231,7 +231,7 @@
             "open_issues": 221,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1832,
+            "stars": 1834,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 139,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1325,
+            "stars": 1328,
             "topics": [
               "compiler",
               "lua",
@@ -791,10 +791,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4592,
+            "stars": 4594,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:28:10.913Z",
+    "last_updated": "2026-10-30T01:29:18.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
