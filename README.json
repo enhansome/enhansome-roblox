@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 632,
+            "stars": 631,
             "topics": [
               "framework",
               "game",
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 359,
+            "stars": 358,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-06T01:02:36Z",
-            "open_issues": 221,
+            "open_issues": 222,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1834,
+            "stars": 1838,
             "topics": [
               "lua",
               "roblox",
@@ -253,11 +253,11 @@
             "id": 147587500,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T06:03:23Z",
-            "open_issues": 139,
+            "last_commit": "2026-10-30T06:22:34Z",
+            "open_issues": 140,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1328,
+            "stars": 1329,
             "topics": [
               "compiler",
               "lua",
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 727,
+            "stars": 726,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:29:18.103Z",
+    "last_updated": "2026-10-31T01:19:47.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
