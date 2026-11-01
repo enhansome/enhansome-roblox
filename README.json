@@ -47,7 +47,7 @@
             "open_issues": 78,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 626,
+            "stars": 628,
             "topics": [
               "game-development",
               "lua",
@@ -227,11 +227,11 @@
             "id": 112544736,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-06T01:02:36Z",
-            "open_issues": 222,
+            "last_commit": "2026-10-31T04:24:34Z",
+            "open_issues": 220,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1838,
+            "stars": 1840,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 140,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1329,
+            "stars": 1328,
             "topics": [
               "compiler",
               "lua",
@@ -285,7 +285,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 537,
+            "stars": 538,
             "topics": [
               "lua",
               "roblox"
@@ -330,7 +330,7 @@
             "open_issues": 26,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "c-sharp",
               "lua",
@@ -794,7 +794,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4594,
+            "stars": 4595,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:19:47.230Z",
+    "last_updated": "2026-11-01T00:36:35.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
