@@ -5,34 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Knit",
-          "description": "Sleitnick/Knit",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Lightweight game framework for Roblox",
-            "homepage": "https://sleitnick.github.io/Knit/",
-            "id": 277660877,
-            "language": "Luau",
-            "license": "MIT",
-            "last_commit": "2024-07-31T13:18:03Z",
-            "open_issues": 0,
-            "owner": "Sleitnick",
-            "repo": "Knit",
-            "stars": 631,
-            "topics": [
-              "framework",
-              "game",
-              "library",
-              "lua",
-              "luau",
-              "roblox"
-            ]
-          },
-          "first_seen": "2026-08-28T05:53:54.793Z"
-        },
-        {
-          "node_type": "item",
           "title": "Nevermore Engine",
           "description": "Quenty/NevermoreEngine",
           "children": [],
@@ -47,12 +19,40 @@
             "open_issues": 78,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 628,
+            "stars": 630,
             "topics": [
               "game-development",
               "lua",
               "nevermore",
               "rbxlua",
+              "roblox"
+            ]
+          },
+          "first_seen": "2026-08-28T05:53:54.793Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Knit",
+          "description": "Sleitnick/Knit",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Lightweight game framework for Roblox",
+            "homepage": "https://sleitnick.github.io/Knit/",
+            "id": 277660877,
+            "language": "Luau",
+            "license": "MIT",
+            "last_commit": "2024-07-31T13:18:03Z",
+            "open_issues": 0,
+            "owner": "Sleitnick",
+            "repo": "Knit",
+            "stars": 630,
+            "topics": [
+              "framework",
+              "game",
+              "library",
+              "lua",
+              "luau",
               "roblox"
             ]
           },
@@ -74,7 +74,7 @@
             "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 625,
+            "stars": 624,
             "topics": [
               "lua",
               "react",
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-31T04:24:34Z",
-            "open_issues": 220,
+            "open_issues": 221,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1840,
+            "stars": 1841,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 140,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1328,
+            "stars": 1327,
             "topics": [
               "compiler",
               "lua",
@@ -285,7 +285,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 538,
+            "stars": 540,
             "topics": [
               "lua",
               "roblox"
@@ -309,7 +309,7 @@
             "open_issues": 88,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 506,
+            "stars": 507,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:36:35.147Z",
+    "last_updated": "2026-11-02T01:10:06.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
