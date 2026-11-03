@@ -26,7 +26,7 @@
 
 Handy frameworks and libraries to build your ROBLOX games on top of!
 
-* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 630 | 🐛 78 | 🌐 Lua | 📅 2026-10-28
+* [Nevermore Engine](https://github.com/Quenty/NevermoreEngine) ⭐ 631 | 🐛 79 | 🌐 Lua | 📅 2026-11-03
 * [Knit](https://github.com/Sleitnick/Knit) ⚠️ Archived
 * [Roact](https://github.com/Roblox/roact) ⚠️ Archived
 * [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts) ⚠️ Archived
@@ -41,7 +41,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
-* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,841 | 🐛 221 | 🌐 Rust | 📅 2026-10-31
+* [Rojo](https://github.com/LPGhatguy/rojo) ⭐ 1,845 | 🐛 222 | 🌐 Rust | 📅 2026-10-31
 * [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,327 | 🐛 140 | 🌐 TypeScript | 📅 2026-10-30
 * [Cmdr](https://github.com/evaera/Cmdr) ⭐ 540 | 🐛 19 | 🌐 Luau | 📅 2026-10-21
 * [wally](https://github.com/UpliftGames/wally) ⭐ 507 | 🐛 88 | 🌐 Rust | 📅 2026-10-12
@@ -207,4 +207,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
