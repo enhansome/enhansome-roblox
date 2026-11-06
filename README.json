@@ -15,11 +15,11 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-05T01:45:26Z",
-            "open_issues": 79,
+            "last_commit": "2026-11-06T01:25:37Z",
+            "open_issues": 78,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "game-development",
               "lua",
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-31T04:24:34Z",
-            "open_issues": 223,
+            "open_issues": 224,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1853,
+            "stars": 1855,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 140,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1328,
+            "stars": 1329,
             "topics": [
               "compiler",
               "lua",
@@ -285,7 +285,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "lua",
               "roblox"
@@ -309,7 +309,7 @@
             "open_issues": 88,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 508,
+            "stars": 509,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -794,7 +794,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4593,
+            "stars": 4594,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:55:50.601Z",
+    "last_updated": "2026-11-06T01:56:45.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
