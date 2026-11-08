@@ -15,11 +15,11 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-06T19:17:22Z",
-            "open_issues": 79,
+            "last_commit": "2026-11-07T09:59:09Z",
+            "open_issues": 80,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "game-development",
               "lua",
@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 358,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -228,10 +228,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-31T04:24:34Z",
-            "open_issues": 224,
+            "open_issues": 225,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1856,
+            "stars": 1857,
             "topics": [
               "lua",
               "roblox",
@@ -326,8 +326,8 @@
             "id": 30164638,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:21:16Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-07T05:37:19Z",
+            "open_issues": 27,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
             "stars": 396,
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T01:29:27.530Z",
+    "last_updated": "2026-11-08T00:59:21.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
