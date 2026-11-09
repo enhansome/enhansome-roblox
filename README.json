@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "Roblox",
             "repo": "Core-Scripts",
-            "stars": 357,
+            "stars": 358,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -231,7 +231,7 @@
             "open_issues": 225,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1857,
+            "stars": 1859,
             "topics": [
               "lua",
               "roblox",
@@ -309,7 +309,7 @@
             "open_issues": 88,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -327,10 +327,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-07T05:37:19Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 396,
+            "stars": 398,
             "topics": [
               "c-sharp",
               "lua",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:59:21.823Z",
+    "last_updated": "2026-11-09T01:20:35.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
