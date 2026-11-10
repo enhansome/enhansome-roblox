@@ -15,7 +15,7 @@
             "id": 12887543,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-07T09:59:09Z",
+            "last_commit": "2026-11-10T00:26:55Z",
             "open_issues": 80,
             "owner": "Quenty",
             "repo": "NevermoreEngine",
@@ -231,7 +231,7 @@
             "open_issues": 225,
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1859,
+            "stars": 1862,
             "topics": [
               "lua",
               "roblox",
@@ -257,7 +257,7 @@
             "open_issues": 140,
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1329,
+            "stars": 1331,
             "topics": [
               "compiler",
               "lua",
@@ -309,7 +309,7 @@
             "open_issues": 88,
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 510,
+            "stars": 511,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -794,7 +794,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4595,
+            "stars": 4596,
             "topics": []
           },
           "first_seen": "2026-08-28T05:53:54.793Z"
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "matthewdean",
             "repo": "roblox-web-apis",
-            "stars": 725,
+            "stars": 726,
             "topics": [
               "roblox"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:20:35.706Z",
+    "last_updated": "2026-11-10T03:55:37.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ROBLOX resources, plugins and frameworks!",
@@ -915,7 +915,7 @@
       "open_issues": 13,
       "owner": "elevenpassin",
       "repo": "awesome-roblox",
-      "stars": 199,
+      "stars": 200,
       "topics": [
         "awesome",
         "awesome-list",
